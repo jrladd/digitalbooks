@@ -1,0 +1,374 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Digital Approaches to Early Modern Books",
+    "section": "",
+    "text": "Introduction\nThis mini-site is a guide for my 4-day Dream Lab 2025 course, Digital Approaches to Early Modern Books. But I hope it will be useful for anyone who’s looking to apply digital and computational methods to 16th- and 17th-century print culture. Like the course, the site focuses more on existing tools and websites, but there’s also a little bit of code and visualization.\nRather than organize things by method or approach, I’ve sorted tools and methods by the parts of print culture a scholar is likely to have questions about: words, books, letters, people, ideas, etc. Naturally these categories are deeply intertwined and overlapping, and they’re not intended to be comprehensive. The goal is to help folks who are just starting out with digital approaches discover how to ask and answer questions about the research subjects they care about.\nWe’ve all had the experience of visiting an amazing new website, taking a tutorial on a new technique, or seeing an incredible presentation and thinking, “Wow, that’s cool! But how do I use it to help with what I’m working on?” We recognize the new method as useful even as we don’t know what we’d use it for. This site is meant to help fill in that gap.\nThe cover image is a nearly illegible letter B from Paul Franck’s Kunstrichtige Schreibart, or The Proper Art of Writing (1655), courtesy of The Public Domain Review, the Internet Archive, and The Getty. I like that it also looks like a bit like a heart!",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
+    "title": "Digital Approaches to Early Modern Books",
+    "section": "Schedule",
+    "text": "Schedule\n\nTuesday 20 May: Books, Texts, Images\n\n9am Check in & Coffee\n10am Welcome\n10:45am – Morning Session: Introductions\nNoon – Break\n1:30pm – Afternoon Session 1: Image to Text, XML & TEI\n3pm – Coffee Break\n3:30pm-5pm – Afternoon Session 2: Research Activities\n5:00pm – Opening Event\n6:30-7:30pm – Reception\n\n\n\nWednesday 21 May: Texts, Words, Letters\n\n9am – Coffee\n10am – Morning Session: Text Analysis & Search\nNoon – Break\n1:30pm – Afternoon Session 1: Spelling & Similarity\n3pm – Coffee Break\n3:30pm-5pm – Afternoon Session 2: Research Activities\n5:15-7pm Ice Cream Social\n\n\n\nThursday 22 May: People & Places\n\n9am Coffee\n10am – Morning Session: Unstructured Data, Mapping\nNoon – Break\n1:30pm – Afternoon Session 1: Networks, Biography, Prosopography\n3pm Coffee Break\n3:30pm-5pm – Afternoon Session 2: Research Activities\n\n\n\nFriday 23 May: Ideas & Corpora\n\n9am – Coffee\n10am – Morning Session: Machine Learning, Corpus Linguistics\nNoon – Break\n1:30pm – Afternoon Session: LLMs and What’s Next\n3pm – Coffee Break\n3:30pm – 5pm Show and Tell/Closing",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "books.html",
+    "href": "books.html",
+    "title": "1  Books",
+    "section": "",
+    "text": "1.1 Sample Research Questions",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Books</span>"
+    ]
+  },
+  {
+    "objectID": "books.html#tools-and-websites",
+    "href": "books.html#tools-and-websites",
+    "title": "1  Books",
+    "section": "1.2 Tools and Websites",
+    "text": "1.2 Tools and Websites\n\nEEBO\nText Creation Partnership\nEarlyPrint Library\nInternet Archive Early English Books:\n\n1475–1640\n1641–1700\n\nEnglish Short Title Catalogue (ESTC):\n\nCERL Beta Version\nPrint & Probability Version\n\nText Encoding Initiative\nEnglish Broadside Ballad Archive",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Books</span>"
+    ]
+  },
+  {
+    "objectID": "books.html#activities",
+    "href": "books.html#activities",
+    "title": "1  Books",
+    "section": "1.3 Activities",
+    "text": "1.3 Activities",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Books</span>"
+    ]
+  },
+  {
+    "objectID": "books.html#references",
+    "href": "books.html#references",
+    "title": "1  Books",
+    "section": "1.4 References",
+    "text": "1.4 References",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Books</span>"
+    ]
+  },
+  {
+    "objectID": "texts.html",
+    "href": "texts.html",
+    "title": "2  Texts",
+    "section": "",
+    "text": "2.1 Sample Research Questions",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Texts</span>"
+    ]
+  },
+  {
+    "objectID": "texts.html#tools-and-websites",
+    "href": "texts.html#tools-and-websites",
+    "title": "2  Texts",
+    "section": "2.2 Tools and Websites",
+    "text": "2.2 Tools and Websites\n\nEEBO-TCP\nEarlyPrint Library & Lab\nEarlyPrint Discovery Engine\nOxford Text Archive\nDigital Miscellanies Index\nEarly Modern Dramatic Paratexts\nReception Reader\nNew Variorum Shakespeare\nThe Pulter Project\nThe Spenser Archive",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Texts</span>"
+    ]
+  },
+  {
+    "objectID": "texts.html#activities",
+    "href": "texts.html#activities",
+    "title": "2  Texts",
+    "section": "2.3 Activities",
+    "text": "2.3 Activities",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Texts</span>"
+    ]
+  },
+  {
+    "objectID": "texts.html#references",
+    "href": "texts.html#references",
+    "title": "2  Texts",
+    "section": "2.4 References",
+    "text": "2.4 References",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Texts</span>"
+    ]
+  },
+  {
+    "objectID": "words.html",
+    "href": "words.html",
+    "title": "3  Words",
+    "section": "",
+    "text": "3.1 Sample Research Questions",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Words</span>"
+    ]
+  },
+  {
+    "objectID": "words.html#tools-and-websites",
+    "href": "words.html#tools-and-websites",
+    "title": "3  Words",
+    "section": "3.2 Tools and Websites",
+    "text": "3.2 Tools and Websites\n\nEarlyPrint & EEBO:\n\nEarlyPrint N-gram Browser\nEarlyPrint Corpus Search\nEarlyPrint Phrase Search\nEEBO-TCP\nWhat We Talk About When We Talk About EEBO\n\nNLP & Text Analysis\n\nVoyant\nEarlyPrint + Python\nMorphAdorner\nMonadGPT\nSpaCy\nStanza",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Words</span>"
+    ]
+  },
+  {
+    "objectID": "words.html#activities",
+    "href": "words.html#activities",
+    "title": "3  Words",
+    "section": "3.3 Activities",
+    "text": "3.3 Activities",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Words</span>"
+    ]
+  },
+  {
+    "objectID": "words.html#references",
+    "href": "words.html#references",
+    "title": "3  Words",
+    "section": "3.4 References",
+    "text": "3.4 References",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Words</span>"
+    ]
+  },
+  {
+    "objectID": "letters.html",
+    "href": "letters.html",
+    "title": "4  Letters",
+    "section": "",
+    "text": "4.1 Sample Research Questions",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Letters</span>"
+    ]
+  },
+  {
+    "objectID": "letters.html#tools-and-websites",
+    "href": "letters.html#tools-and-websites",
+    "title": "4  Letters",
+    "section": "4.2 Tools and Websites",
+    "text": "4.2 Tools and Websites\n\nPrint & Probability\nCatalog of Distinctive Type",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Letters</span>"
+    ]
+  },
+  {
+    "objectID": "letters.html#activities",
+    "href": "letters.html#activities",
+    "title": "4  Letters",
+    "section": "4.3 Activities",
+    "text": "4.3 Activities",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Letters</span>"
+    ]
+  },
+  {
+    "objectID": "letters.html#references",
+    "href": "letters.html#references",
+    "title": "4  Letters",
+    "section": "4.4 References",
+    "text": "4.4 References",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Letters</span>"
+    ]
+  },
+  {
+    "objectID": "images.html",
+    "href": "images.html",
+    "title": "5  Images",
+    "section": "",
+    "text": "5.1 Sample Research Questions",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Images</span>"
+    ]
+  },
+  {
+    "objectID": "images.html#tools-and-websites",
+    "href": "images.html#tools-and-websites",
+    "title": "5  Images",
+    "section": "5.2 Tools and Websites",
+    "text": "5.2 Tools and Websites\n\nPrint & Probability\nCatalog of Distinctive Type\nInternet Archive Early English Books:\n\n1475–1640\n1641–1700\n\nEnglish Broadside Ballad Archive",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Images</span>"
+    ]
+  },
+  {
+    "objectID": "images.html#activities",
+    "href": "images.html#activities",
+    "title": "5  Images",
+    "section": "5.3 Activities",
+    "text": "5.3 Activities",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Images</span>"
+    ]
+  },
+  {
+    "objectID": "images.html#references",
+    "href": "images.html#references",
+    "title": "5  Images",
+    "section": "5.4 References",
+    "text": "5.4 References",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Images</span>"
+    ]
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "6  People",
+    "section": "",
+    "text": "6.1 Sample Research Questions",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>People</span>"
+    ]
+  },
+  {
+    "objectID": "people.html#tools-and-websites",
+    "href": "people.html#tools-and-websites",
+    "title": "6  People",
+    "section": "6.2 Tools and Websites",
+    "text": "6.2 Tools and Websites\n\nOxford Dictionary of National Biography\nWikidata\nSix Degrees of Francis Bacon\nTudor Networks of Power\nVirtual International Authority File\nOpenRefine",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>People</span>"
+    ]
+  },
+  {
+    "objectID": "people.html#activities",
+    "href": "people.html#activities",
+    "title": "6  People",
+    "section": "6.3 Activities",
+    "text": "6.3 Activities",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>People</span>"
+    ]
+  },
+  {
+    "objectID": "people.html#references",
+    "href": "people.html#references",
+    "title": "6  People",
+    "section": "6.4 References",
+    "text": "6.4 References",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>People</span>"
+    ]
+  },
+  {
+    "objectID": "places.html",
+    "href": "places.html",
+    "title": "7  Places",
+    "section": "",
+    "text": "7.1 Sample Research Questions",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Places</span>"
+    ]
+  },
+  {
+    "objectID": "places.html#tools-and-websites",
+    "href": "places.html#tools-and-websites",
+    "title": "7  Places",
+    "section": "7.2 Tools and Websites",
+    "text": "7.2 Tools and Websites\n\nMap of Early Modern London\nVirtual International Authority File\nOpenRefine\nQGIS\nArcGIS",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Places</span>"
+    ]
+  },
+  {
+    "objectID": "places.html#activities",
+    "href": "places.html#activities",
+    "title": "7  Places",
+    "section": "7.3 Activities",
+    "text": "7.3 Activities",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Places</span>"
+    ]
+  },
+  {
+    "objectID": "places.html#references",
+    "href": "places.html#references",
+    "title": "7  Places",
+    "section": "7.4 References",
+    "text": "7.4 References",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Places</span>"
+    ]
+  },
+  {
+    "objectID": "corpora.html",
+    "href": "corpora.html",
+    "title": "8  Corpora",
+    "section": "",
+    "text": "8.1 Sample Research Questions",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Corpora</span>"
+    ]
+  },
+  {
+    "objectID": "corpora.html#tools-and-websites",
+    "href": "corpora.html#tools-and-websites",
+    "title": "8  Corpora",
+    "section": "8.2 Tools and Websites",
+    "text": "8.2 Tools and Websites\n\nEarlyPrint Corpus Search\nEarlyPrint Bibliographia\nEarlyPrint + Python\nNomic Atlas\nGPT4All\nOllama",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Corpora</span>"
+    ]
+  },
+  {
+    "objectID": "corpora.html#activities",
+    "href": "corpora.html#activities",
+    "title": "8  Corpora",
+    "section": "8.3 Activities",
+    "text": "8.3 Activities",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Corpora</span>"
+    ]
+  },
+  {
+    "objectID": "corpora.html#references",
+    "href": "corpora.html#references",
+    "title": "8  Corpora",
+    "section": "8.4 References",
+    "text": "8.4 References",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Corpora</span>"
+    ]
+  }
+]
