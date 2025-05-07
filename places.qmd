@@ -1,0 +1,15 @@
+# Places
+
+## Sample Research Questions
+
+## Tools and Websites
+
+- [Map of Early Modern London](https://mapoflondon.uvic.ca/)
+- [Virtual International Authority File](https://viaf.org/en)
+- [OpenRefine](https://viaf.org/en)
+- [QGIS](https://qgis.org/)
+- [ArcGIS](https://www.arcgis.com/index.html)
+
+## Activities
+
+## References

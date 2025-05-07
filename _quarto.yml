@@ -1,0 +1,37 @@
+project:
+  type: book
+
+book:
+  title: "Digital Approaches to Early Modern Books"
+  author: "John R. Ladd"
+  cover-image: kunstrichtigesch00fran_B.jpeg
+  favicon: favicon.png
+  sidebar:
+    logo: kunstrichtigesch00fran_B.jpeg
+  date: "5/7/2025"
+  chapters:
+    - index.qmd
+    - part: "**Ask Questions About:**"
+      chapters:
+        - books.qmd
+        - texts.qmd
+        - words.qmd
+        - letters.qmd
+        - images.qmd
+        - people.qmd
+        - places.qmd
+        - corpora.qmd
+    - references.qmd
+  search: true
+  page-footer: "John R. Ladd, DreamLab2025"
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: simplex
+  pdf:
+    documentclass: scrreprt
+
+
+

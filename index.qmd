@@ -1,0 +1,51 @@
+# Introduction {.unnumbered}
+
+This mini-site is a guide for my 4-day [Dream Lab 2025 course](https://web.sas.upenn.edu/dream-lab/digital-approaches-to-early-modern-books-2025/), *Digital Approaches to Early Modern Books*. But I hope it will be useful for anyone who's looking to apply digital and computational methods to 16th- and 17th-century print culture. Like the course, the site focuses more on existing tools and websites, but there's also a little bit of code and visualization.
+
+Rather than organize things by method or approach, I've sorted tools and methods by the parts of print culture a scholar is likely to have questions about: words, books, letters, people, ideas, etc. Naturally these categories are deeply intertwined and overlapping, and they're not intended to be comprehensive. The goal is to help folks who are just starting out with digital approaches discover how to ask and answer questions about the research subjects they care about.
+
+We've all had the experience of visiting an amazing new website, taking a tutorial on a new technique, or seeing an incredible presentation and thinking, "Wow, that's cool! But how do I use it to help with what I'm working on?" We recognize the new method as useful even as we don't know what *we'd* use it for. This site is meant to help fill in that gap.
+
+<small>The cover image is a nearly illegible letter B from Paul Franck's *Kunstrichtige Schreibart*, or *The Proper Art of Writing* (1655), courtesy of [*The Public Domain Review*, the *Internet Archive*, and *The Getty*](https://publicdomainreview.org/collection/the-proper-art-of-writing-1655/). I like that it also looks like a bit like a heart!</small>
+
+## Schedule
+
+### Tuesday 20 May: Books, Texts, Images
+
+- 9am Check in & Coffee
+- 10am Welcome
+- **10:45am – Morning Session: Introductions**
+- Noon – Break
+- **1:30pm – Afternoon Session 1: Image to Text, XML & TEI**
+- 3pm – Coffee Break
+- **3:30pm-5pm – Afternoon Session 2: Research Activities**
+- 5:00pm – Opening Event
+- 6:30-7:30pm – Reception
+
+### Wednesday 21 May: Texts, Words, Letters
+
+- 9am – Coffee
+- **10am – Morning Session: Text Analysis & Search**
+- Noon – Break
+- **1:30pm – Afternoon Session 1: Spelling & Similarity**
+- 3pm – Coffee Break
+- **3:30pm-5pm – Afternoon Session 2: Research Activities**
+- 5:15-7pm Ice Cream Social
+
+### Thursday 22 May: People & Places
+
+- 9am Coffee
+- **10am – Morning Session: Unstructured Data, Mapping**
+- Noon – Break
+- **1:30pm – Afternoon Session 1: Networks, Biography, Prosopography**
+- 3pm Coffee Break
+- **3:30pm-5pm – Afternoon Session 2: Research Activities**
+
+### Friday 23 May: Ideas & Corpora
+
+- 9am – Coffee
+- **10am – Morning Session: Machine Learning, Corpus Linguistics**
+- Noon – Break
+- **1:30pm – Afternoon Session: LLMs and What's Next**
+- 3pm – Coffee Break
+- 3:30pm – 5pm Show and Tell/Closing

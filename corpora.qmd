@@ -1,0 +1,16 @@
+# Corpora
+
+## Sample Research Questions
+
+## Tools and Websites
+
+- [EarlyPrint Corpus Search](https://eplab.artsci.wustl.edu/corpus-frontend-1.2/eebotcp/search/)
+- [EarlyPrint Bibliographia](https://earlyprint.org/bibliographia/)
+- [EarlyPrint + Python](https://earlyprint.org/jupyterbook/intro.html)
+- [Nomic Atlas](https://atlas.nomic.ai/data/earlyprint/creative-johnson/map)
+- [GPT4All](https://www.nomic.ai/gpt4all)
+- [Ollama](https://ollama.com/)
+
+## Activities
+
+## References

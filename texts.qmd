@@ -1,0 +1,20 @@
+# Texts
+
+## Sample Research Questions
+
+## Tools and Websites
+
+- [EEBO-TCP](https://textcreationpartnership.org/tcp-texts/eebo-tcp-early-english-books-online/)
+- [EarlyPrint Library & Lab](https://earlyprint.org/)
+- [EarlyPrint Discovery Engine](https://earlyprint.org/lab/tool_discovery_engine.html?which_to_do=find_texts&eebo_tcp_id=A43441&n_results=35&tfidf_weight=6&mallet_weight=6&tag_weight=6)
+- [Oxford Text Archive](https://ota.bodleian.ox.ac.uk/repository/xmlui/)
+- [Digital Miscellanies Index](http://digitalmiscellaniesindex.org/)
+- [Early Modern Dramatic Paratexts](https://paratexts.folger.edu/keywordSearch)
+- [Reception Reader](https://receptionreader.com/)
+- [New Variorum Shakespeare](https://newvariorumshakespeare.org/)
+- [The Pulter Project](https://pulterproject.northwestern.edu/)
+- [The Spenser Archive](https://www.spenserarchive.org/spenserArchivePrototype/)
+
+## Activities
+
+## References

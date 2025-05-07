@@ -1,0 +1,23 @@
+# Books
+
+For the purposes of this site, I'm defining a book as a unit of printed output. This could be a traditional printed book, but it could also be a broadside, pamphlet, news sheet, or other piece of printed ephemera. Books are distinct in this schema from texts: a book can be made up of many individual texts.
+
+## Sample Research Questions
+
+## Tools and Websites
+
+- [EEBO](https://about.proquest.com/en/products-services/eebo/)
+- [Text Creation Partnership](https://textcreationpartnership.org/)
+- [EarlyPrint Library](https://texts.earlyprint.org/exist/apps/shc/home.html)
+- Internet Archive Early English Books:
+  - [1475–1640](https://archive.org/details/pub_early-english-books-1475-1640?tab=collection&sort=-reviewdate)
+  - [1641–1700](https://archive.org/details/pub_early-english-books-1641-1700?tab=collection)
+- English Short Title Catalogue (ESTC):
+  - [CERL Beta Version](https://datb.cerl.org/estc/)
+  - [Print & Probability Version](https://estc.printprobability.org/)
+- [Text Encoding Initiative](https://tei-c.org/)
+- [English Broadside Ballad Archive](https://ebba.english.ucsb.edu/)
+
+## Activities
+
+## References

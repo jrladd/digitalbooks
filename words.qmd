@@ -1,0 +1,24 @@
+# Words
+
+## Sample Research Questions
+
+## Tools and Websites
+
+
+- EarlyPrint & EEBO:
+  - [EarlyPrint N-gram Browser](https://earlyprint.org/lab/tool_ngram_browser.html?requestFromClient={%221%22:{%22spe%22:%22love,loue%22,%22reg%22:%22%22,%22lem%22:%22%22,%22pos%22:%22%22,%22originalPos%22:%22%22},%222%22:{%22spe%22:%22%22,%22reg%22:%22%22,%22lem%22:%22%22,%22pos%22:%22%22,%22originalPos%22:%22%22},%223%22:{%22spe%22:%22%22,%22reg%22:%22%22,%22lem%22:%22%22,%22pos%22:%22%22,%22originalPos%22:%22%22},%22databaseType%22:%22unigrams%22,%22smoothing%22:%22True%22,%22rollingAverage%22:%2220_year%22,%20%22instructionToggle%22:%20%22show%22})
+  - [EarlyPrint Corpus Search](https://eplab.artsci.wustl.edu/corpus-frontend-1.2/eebotcp/search/)
+  - [EarlyPrint Phrase Search](https://earlyprint.org/lab/tool_phrase_search.html)
+  - [EEBO-TCP](https://textcreationpartnership.org/tcp-texts/eebo-tcp-early-english-books-online/)
+  - [What We Talk About When We Talk About EEBO](https://observablehq.com/@jrladd/eebo)
+- NLP & Text Analysis
+  - [Voyant](https://voyant-tools.org/)
+  - [EarlyPrint + Python](https://earlyprint.org/jupyterbook/intro.html)
+  - [MorphAdorner](https://morphadorner.northwestern.edu/)
+  - [MonadGPT](https://huggingface.co/Pclanglais/MonadGPT)
+  - [SpaCy](https://spacy.io/)
+  - [Stanza](https://stanfordnlp.github.io/stanza/)
+
+## Activities
+
+## References
