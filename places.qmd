@@ -2,9 +2,15 @@
 
 ## Sample Research Questions
 
+- How does proximity of bookstalls impact printer collaborations?
+- Can locations be identified from early modern books?
+- How does territorial expansion and border negotiation change over time?
+
 ## Tools and Websites
 
 - [Map of Early Modern London](https://mapoflondon.uvic.ca/)
+- [Virtual Paul's Cross](https://vpcross.chass.ncsu.edu/)
+- [SlaveVoyages](https://www.slavevoyages.org/)
 - [Virtual International Authority File](https://viaf.org/en)
 - [OpenRefine](https://viaf.org/en)
 - [QGIS](https://qgis.org/)
@@ -13,3 +19,8 @@
 ## Activities
 
 ## References
+
+- @kelley_getting_2017
+- @holmes_whatever_2017
+- @berman_placing_2016
+- @jenstad_using_2011

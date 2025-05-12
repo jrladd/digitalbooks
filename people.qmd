@@ -2,15 +2,39 @@
 
 ## Sample Research Questions
 
+- How did Milton's place in historical social networks impact his writing?
+- What makes a "significant" person in early modern England and how do we identify them?
+- How were early modern women instrumental in the creation and maintenance of the Hartlib Circle?
+
 ## Tools and Websites
 
 - [Oxford Dictionary of National Biography](https://www.oxforddnb.com/)
 - [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
 - [Six Degrees of Francis Bacon](http://sixdegreesoffrancisbacon.com/)
 - [Tudor Networks of Power](https://tudornetworks.net/)
+- [Women Writers Project](https://www.wwp.northeastern.edu/)
+- [Book Owners Online](https://bookowners.online/Main_Page)
+- [SlaveVoyages](https://www.slavevoyages.org/)
 - [Virtual International Authority File](https://viaf.org/en)
 - [OpenRefine](https://viaf.org/en)
 
 ## Activities
 
 ## References
+
+- @heffernan_search_2018
+- @quiring_fingerprints_2024
+- @van_raamsdonk_john_2022
+- @ahnert_protestant_2015
+- @ahnert_network_2020
+- @ahnert_metadata_2019
+- @mauro_reassembling_2022
+- @greteman_milton_2015
+- @henderson_rolx_2012
+- @watts_collective_1998
+- @warren_six_2016
+- @granovetter_strength_1973
+- @ladd_exploring_2017
+- @langmead_towards_2016
+- @gavin_historical_2016
+- @bourke_female_2017

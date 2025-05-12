@@ -1,8 +1,12 @@
 # Books
 
-For the purposes of this site, I'm defining a book as a unit of printed output. This could be a traditional printed book, but it could also be a broadside, pamphlet, news sheet, or other piece of printed ephemera. Books are distinct in this schema from texts: a book can be made up of many individual texts.
+For the purposes of this site, I'm defining a book as a unit of printed output. This could be a traditional printed book, but it could also be a broadside, pamphlet, news sheet, or other piece of printed ephemera. Books are distinct from texts in this schema: a book can be made up of many individual texts.
 
 ## Sample Research Questions
+
+- How does digitization transform a book?
+- What is lost in the process(es) of digitization?
+- Who made a book, and through what processes?
 
 ## Tools and Websites
 
@@ -21,3 +25,14 @@ For the purposes of this site, I'm defining a book as a unit of printed output. 
 ## Activities
 
 ## References
+
+- @siefring_sustaining_2013
+- @quiring_fingerprints_2024
+- @trettien_cutcopypaste_2022
+- @mclean_early_2001
+- @kichuk_metamorphosis_2007
+- @martin_eebo_2007
+- @gadd_use_2009
+- @vogler_clustering_2024
+- @warren_who_2023
+- @warren_damaged_2020

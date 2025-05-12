@@ -2,6 +2,10 @@
 
 ## Sample Research Questions
 
+- Are character types consistent across different plays?
+- Who authored anonymous poems?
+- Which texts contribute to the rise of literary criticism?
+
 ## Tools and Websites
 
 - [EEBO-TCP](https://textcreationpartnership.org/tcp-texts/eebo-tcp-early-english-books-online/)
@@ -9,6 +13,7 @@
 - [EarlyPrint Discovery Engine](https://earlyprint.org/lab/tool_discovery_engine.html?which_to_do=find_texts&eebo_tcp_id=A43441&n_results=35&tfidf_weight=6&mallet_weight=6&tag_weight=6)
 - [Oxford Text Archive](https://ota.bodleian.ox.ac.uk/repository/xmlui/)
 - [Digital Miscellanies Index](http://digitalmiscellaniesindex.org/)
+- [Manuscript Pamphleteering in Early Stuart England](https://mpese.ac.uk/)
 - [Early Modern Dramatic Paratexts](https://paratexts.folger.edu/keywordSearch)
 - [Reception Reader](https://receptionreader.com/)
 - [New Variorum Shakespeare](https://newvariorumshakespeare.org/)
@@ -18,3 +23,15 @@
 ## Activities
 
 ## References
+
+- @algee-hewitt_distributed_2017
+- @heffernan_search_2018
+- @eve_close_2019
+- @misek_computing_nodate
+- @gavin_literary_2022
+- @burrows_lucy_2001
+- @noauthor_new_2017
+- @mueller_digital_2008
+- @gavin_historical_2016
+- @bode_equivalence_2017
+- @basu_shakespeare_2025

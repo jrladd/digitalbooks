@@ -2,8 +2,24 @@
 
 ## Sample Research Questions
 
+- Which texts discuss a certain topic, i.e. cooking, regardless of what words they use?
+- How should early modern professions be categorized, and how are they different from modern categories?
+- How did early modern people deal with quantification and computation?
+
 ## Tools and Websites
+
+- [EarlyPrint Corpus Search Beta](https://eplab.artsci.wustl.edu/corpus-frontend-3.1.1-SNAPSHOT/earlyprint/search/)
+- [EarlyPrint Bibliographia](https://earlyprint.org/bibliographia/)
+- [MALLET](https://mimno.github.io/Mallet/index)
+- [Nomic Atlas](https://atlas.nomic.ai/)
 
 ## Activities
 
 ## References
+
+- @furner_data_2016
+- @lavin_why_2021
+- @wernimont_numbered_2019
+- @ahnert_metadata_2019
+- @langmead_towards_2016
+- @bode_equivalence_2017

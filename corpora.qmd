@@ -2,6 +2,10 @@
 
 ## Sample Research Questions
 
+- How many subjects exist within the early modern corpus?
+- How pervasive is poetry in early modern print?
+- Which texts are most similar or different?
+
 ## Tools and Websites
 
 - [EarlyPrint Corpus Search](https://eplab.artsci.wustl.edu/corpus-frontend-1.2/eebotcp/search/)
@@ -14,3 +18,14 @@
 ## Activities
 
 ## References
+
+- @siefring_sustaining_2013
+- @dsouza_chatbot_2023
+- @bender_dangers_2021
+- @mitchell_metaphors_2024
+- @gadd_use_2009
+- @gavin_literary_2022
+- @yang_partspeech_2016
+- @kulick_parsing_2020
+- @bode_equivalence_2017
+- @basu_shakespeare_2025

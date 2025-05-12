@@ -2,6 +2,10 @@
 
 ## Sample Research Questions
 
+- Can we discover who printed a text based on damaged pieces of type?
+- Does Spenser's spelling indicate a distinct use of archaism?
+- Can different letterforms and damages be detected algorithimically?
+
 ## Tools and Websites
 
 - [Print & Probability](https://printprobability.org/)
@@ -10,3 +14,9 @@
 ## Activities
 
 ## References
+
+- @warren_who_2023
+- @warren_damaged_2020
+- @goyal_probabilistic_2020
+- @vogler_clustering_2024
+- @basu_spensers_2019

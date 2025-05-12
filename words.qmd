@@ -2,19 +2,25 @@
 
 ## Sample Research Questions
 
+- When is the word "data" introduced to English and how does its use change over time?
+- Does Shakespeare have a vocabulary distinct from other authors?
+- How do we overcome historical spelling and word-form irregularity?
+
 ## Tools and Websites
 
 
 - EarlyPrint & EEBO:
   - [EarlyPrint N-gram Browser](https://earlyprint.org/lab/tool_ngram_browser.html?requestFromClient={%221%22:{%22spe%22:%22love,loue%22,%22reg%22:%22%22,%22lem%22:%22%22,%22pos%22:%22%22,%22originalPos%22:%22%22},%222%22:{%22spe%22:%22%22,%22reg%22:%22%22,%22lem%22:%22%22,%22pos%22:%22%22,%22originalPos%22:%22%22},%223%22:{%22spe%22:%22%22,%22reg%22:%22%22,%22lem%22:%22%22,%22pos%22:%22%22,%22originalPos%22:%22%22},%22databaseType%22:%22unigrams%22,%22smoothing%22:%22True%22,%22rollingAverage%22:%2220_year%22,%20%22instructionToggle%22:%20%22show%22})
-  - [EarlyPrint Corpus Search](https://eplab.artsci.wustl.edu/corpus-frontend-1.2/eebotcp/search/)
+  - [EarlyPrint Corpus Search Beta](https://eplab.artsci.wustl.edu/corpus-frontend-3.1.1-SNAPSHOT/earlyprint/search/)
   - [EarlyPrint Phrase Search](https://earlyprint.org/lab/tool_phrase_search.html)
   - [EEBO-TCP](https://textcreationpartnership.org/tcp-texts/eebo-tcp-early-english-books-online/)
   - [What We Talk About When We Talk About EEBO](https://observablehq.com/@jrladd/eebo)
+  - [Text Encoding Initiative](https://tei-c.org/)
 - NLP & Text Analysis
   - [Voyant](https://voyant-tools.org/)
   - [EarlyPrint + Python](https://earlyprint.org/jupyterbook/intro.html)
   - [MorphAdorner](https://morphadorner.northwestern.edu/)
+  - [Penn Parsed Corpora of Historical English](https://www.ling.upenn.edu/ppche/ppche-release-2016/index.html)
   - [MonadGPT](https://huggingface.co/Pclanglais/MonadGPT)
   - [SpaCy](https://spacy.io/)
   - [Stanza](https://stanfordnlp.github.io/stanza/)
@@ -22,3 +28,13 @@
 ## Activities
 
 ## References
+
+- @heffernan_search_2018
+- @furner_data_2016
+- @hope_hundredth_2010
+- @craig_shakespeares_2011
+- @yang_partspeech_2016
+- @kulick_parsing_2020
+- @witmore_digital_2016
+- @basu_shakespeare_2025
+- @basu_spensers_2019
