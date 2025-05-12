@@ -24,7 +24,18 @@
     "href": "books.html",
     "title": "1  Books",
     "section": "",
-    "text": "1.1 Sample Research Questions",
+    "text": "1.1 Sample Research Questions\nFor the purposes of this site, I’m defining a book as a unit of printed output. This could be a traditional printed book, but it could also be a broadside, pamphlet, news sheet, or other piece of printed ephemera. Books are distinct from texts in this schema: a book can be made up of many individual texts.",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Books</span>"
+    ]
+  },
+  {
+    "objectID": "books.html#sample-research-questions",
+    "href": "books.html#sample-research-questions",
+    "title": "1  Books",
+    "section": "",
+    "text": "How does digitization transform a book?\nWhat is lost in the process(es) of digitization?\nWho made a book, and through what processes?",
     "crumbs": [
       "**Ask Questions About:**",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Books</span>"
@@ -57,7 +68,7 @@
     "href": "books.html#references",
     "title": "1  Books",
     "section": "1.4 References",
-    "text": "1.4 References",
+    "text": "1.4 References\n\nSiefring and Meyer (2013)\nQuiring (2024)\nTrettien (2022)\nMcLean (2001)\nKichuk (2007)\nMartin (2007)\nGadd (2009)\nVogler et al. (2024)\nChristopher N. Warren et al. (2023)\nChristopher N. Warren et al. (2020)\n\n\n\n\n\nGadd, Ian. 2009. “The Use and Misuse of Early English Books Online.” Literature Compass 6 (3): 680–92. https://doi.org/10.1111/j.1741-4113.2009.00632.x.\n\n\nKichuk, Diana. 2007. “Metamorphosis: Remediation in Early English Books Online (EEBO).” Literary and Linguistic Computing 22 (3): 291–303. https://doi.org/10.1093/llc/fqm018.\n\n\nMartin, Shawn. 2007. “EEBO, Microfilm, and Umberto Eco: Historical Lessons and Future Directions for Building Electronic Collections” 36 (4): 159–64. https://doi.org/10.1515/MFIR.2007.159.\n\n\nMcLean, Austin J. 2001. “Early British Printing Meets the Electronic Age: A Large-Scale Digitization Case Study” 30 (4): 127–34. https://doi.org/10.1515/MFIR.2001.127.\n\n\nQuiring, Ana. 2024. “Fingerprints of British Book History: A Feminist Labor History of EEBO.” Digital Humanities Quarterly 18 (1). https://www.digitalhumanities.org/dhq/vol/18/1/000718/000718.html.\n\n\nSiefring, Judith, and Eric T. Meyer. 2013. “Sustaining the EEBO-TCP Corpus in Transition: Report on the TIDSR Benchmarking Study.” {SSRN} {Scholarly} {Paper}. Rochester, NY: Social Science Research Network. https://doi.org/10.2139/ssrn.2236202.\n\n\nTrettien, Whitney. 2022. Cut/Copy/Paste: Fragments from the History of Bookwork. U of Minnesota P. https://www.upress.umn.edu/9781517904098/cutcopypaste/.\n\n\nVogler, Nikolai, Kartik Goyal, Samuel V. Lemley, D. J. Schuldt, Christopher N. Warren, Max G’Sell, and Taylor Berg-Kirkpatrick. 2024. “Clustering Running Titles to Understand the Printing of Early Modern Books.” In Document Analysis and Recognition - ICDAR 2024, edited by Elisa H. Barney Smith, Marcus Liwicki, and Liangrui Peng, 374–90. Cham: Springer Nature Switzerland. https://doi.org/10.1007/978-3-031-70543-4_22.\n\n\nWarren, Christopher N, Samuel V Lemley, D J Schuldt, Elizabeth Dieterich, Laura S DeLuca, Max G’Sell, Taylor Berg-Kirkpatrick, Kari Thomas, Kartik Goyal, and Nikolai Vogler. 2023. “Who Rpinted Shakespeare’s Fourth Folio?” Shakespeare Quarterly 74 (2): 139–46. https://doi.org/10.1093/sq/quad021.\n\n\nWarren, Christopher N., Pierce Wiliams, Shruti Rijhwani, and Max G’Sell. 2020. “Damaged Type and Areopagitica’s Clandestine Printers.” Milton Studies 62 (1): 1–47. https://muse.jhu.edu/pub/2/article/748968.",
     "crumbs": [
       "**Ask Questions About:**",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Books</span>"
@@ -75,11 +86,22 @@
     ]
   },
   {
+    "objectID": "texts.html#sample-research-questions",
+    "href": "texts.html#sample-research-questions",
+    "title": "2  Texts",
+    "section": "",
+    "text": "Are character types consistent across different plays?\nWho authored anonymous poems?\nWhich texts contribute to the rise of literary criticism?",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Texts</span>"
+    ]
+  },
+  {
     "objectID": "texts.html#tools-and-websites",
     "href": "texts.html#tools-and-websites",
     "title": "2  Texts",
     "section": "2.2 Tools and Websites",
-    "text": "2.2 Tools and Websites\n\nEEBO-TCP\nEarlyPrint Library & Lab\nEarlyPrint Discovery Engine\nOxford Text Archive\nDigital Miscellanies Index\nEarly Modern Dramatic Paratexts\nReception Reader\nNew Variorum Shakespeare\nThe Pulter Project\nThe Spenser Archive",
+    "text": "2.2 Tools and Websites\n\nEEBO-TCP\nEarlyPrint Library & Lab\nEarlyPrint Discovery Engine\nOxford Text Archive\nDigital Miscellanies Index\nManuscript Pamphleteering in Early Stuart England\nEarly Modern Dramatic Paratexts\nReception Reader\nNew Variorum Shakespeare\nThe Pulter Project\nThe Spenser Archive",
     "crumbs": [
       "**Ask Questions About:**",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Texts</span>"
@@ -101,7 +123,7 @@
     "href": "texts.html#references",
     "title": "2  Texts",
     "section": "2.4 References",
-    "text": "2.4 References",
+    "text": "2.4 References\n\nAlgee-Hewitt (2017)\nHeffernan and Sagner Buurma (2018)\nEve (2019)\nMisek (n.d.)\nGavin (2022)\nBurrows and Craig (2001)\nThe New Oxford Shakespeare: Authorship Companion (2017)\nMueller (2008)\nGavin (2016)\nBode (2017)\nBasu (2025)\n\n\n\n\n\nAlgee-Hewitt, Mark. 2017. “Distributed Character: Quantitative Models of the English Stage, 1550–1900.” New Literary History 48 (4): 751–82. https://doi.org/10.1353/nlh.2017.0038.\n\n\nBasu, Anupam. 2025. Shakespeare and Scale: The Archive of Early Printed English. Cambridge Elements: Shakespeare and Text. Cambridge UP. https://www.cambridge.org/core/elements/shakespeare-and-scale/B3EB39E9F6049B8A203150FCB2DE4E5E.\n\n\nBode, Katherine. 2017. “The Equivalence of ‘Close’ And ‘Distant’ Reading; Or, Toward a New Object for Data-Rich Literary History.” Modern Language Quarterly 78 (1): 77–106. https://doi.org/10.1215/00267929-3699787.\n\n\nBurrows, John, and Hugh Craig. 2001. “Lucy Hutchinson and the Authorship of Two Seventeenth-Century Poems: A Computational Approach.” Seventeenth Century 16 (2): 259. https://doi.org/10.1080/0268117X.2001.10555493.\n\n\nEve, Martin Paul. 2019. Close Reading with Computers: Textual Scholarship, Computational Formalism, and David Mitchell’s Cloud Atlas. Stanford: Stanford University Press.\n\n\nGavin, Michael. 2016. “Historical Text Networks: The Sociology of Early English Criticism.” Eighteenth-Century Studies 50 (1): 53–80. https://doi.org/10.1353/ecs.2016.0041.\n\n\n———. 2022. Literary Mathematics: Quantitative Theory for Textual Studies. Stanford: Stanford University Press.\n\n\nHeffernan, Laura, and Rachel Sagner Buurma. 2018. “Search and Replace: Josephine Miles and the Origins of Distant Reading.” Modernism/Modernity Print Plus, April. https://modernismmodernity.org/forums/posts/search-and-replace.\n\n\nMisek, Linda Douglas. n.d. “COMPUTING A CONTEXT: STYLE, STRUCTURE, AND THE SELF-IMAGE OF SATAN IN ’PARADISE LOST.’ (VOLUMES I AND II) - ProQuest.” PhD thesis. Accessed June 23, 2023. https://www.proquest.com/openview/9a2ce163529a5cae4b7385715a96751b/1?pq-origsite=gscholar&cbl=18750&diss=y.\n\n\nMueller, Martin. 2008. “Digital Shakespeare, or Towards a Literary Informatics.” Shakespeare 4 (3): 284–301. https://doi.org/10.1080/17450910802295179.\n\n\nThe New Oxford Shakespeare: Authorship Companion. 2017. New Oxford Shakespeare. Oxford, New York: Oxford University Press.",
     "crumbs": [
       "**Ask Questions About:**",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Texts</span>"
@@ -119,11 +141,22 @@
     ]
   },
   {
+    "objectID": "words.html#sample-research-questions",
+    "href": "words.html#sample-research-questions",
+    "title": "3  Words",
+    "section": "",
+    "text": "When is the word “data” introduced to English and how does its use change over time?\nDoes Shakespeare have a vocabulary distinct from other authors?\nHow do we overcome historical spelling and word-form irregularity?",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Words</span>"
+    ]
+  },
+  {
     "objectID": "words.html#tools-and-websites",
     "href": "words.html#tools-and-websites",
     "title": "3  Words",
     "section": "3.2 Tools and Websites",
-    "text": "3.2 Tools and Websites\n\nEarlyPrint & EEBO:\n\nEarlyPrint N-gram Browser\nEarlyPrint Corpus Search\nEarlyPrint Phrase Search\nEEBO-TCP\nWhat We Talk About When We Talk About EEBO\n\nNLP & Text Analysis\n\nVoyant\nEarlyPrint + Python\nMorphAdorner\nMonadGPT\nSpaCy\nStanza",
+    "text": "3.2 Tools and Websites\n\nEarlyPrint & EEBO:\n\nEarlyPrint N-gram Browser\nEarlyPrint Corpus Search Beta\nEarlyPrint Phrase Search\nEEBO-TCP\nWhat We Talk About When We Talk About EEBO\nText Encoding Initiative\n\nNLP & Text Analysis\n\nVoyant\nEarlyPrint + Python\nMorphAdorner\nPenn Parsed Corpora of Historical English\nMonadGPT\nSpaCy\nStanza",
     "crumbs": [
       "**Ask Questions About:**",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Words</span>"
@@ -145,7 +178,7 @@
     "href": "words.html#references",
     "title": "3  Words",
     "section": "3.4 References",
-    "text": "3.4 References",
+    "text": "3.4 References\n\nHeffernan and Sagner Buurma (2018)\nFurner (2016)\nHope and Witmore (2010)\nCraig (2011)\nYang and Eisenstein (2016)\nKulick and Ryant (2020)\nWitmore, Hope, and Gleicher (2016)\nBasu (2025)\nBasu and Loewenstein (2019)\n\n\n\n\n\nBasu, Anupam. 2025. Shakespeare and Scale: The Archive of Early Printed English. Cambridge Elements: Shakespeare and Text. Cambridge UP. https://www.cambridge.org/core/elements/shakespeare-and-scale/B3EB39E9F6049B8A203150FCB2DE4E5E.\n\n\nBasu, Anupam, and Joseph Loewenstein. 2019. “Spenser’s Spell: Archaism and Historical Stylometrics.” Spenser Studies 33 (January): 63–102. https://doi.org/10.1086/700300.\n\n\nCraig, Hugh. 2011. “Shakespeare’s Vocabulary: Myth and Reality.” Shakespeare Quarterly 62 (1): 53–74. https://doi.org/10.1353/shq.2011.0002.\n\n\nFurner, Jonathan. 2016. “‘Data’: The Data.” In Information Cultures in the Digital Age: A Festschrift in Honor of Rafael Capurro, edited by Matthew Kelly and Jared Bielby, 287–306. Wiesbaden: Springer Fachmedien. https://doi.org/10.1007/978-3-658-14681-8_17.\n\n\nHeffernan, Laura, and Rachel Sagner Buurma. 2018. “Search and Replace: Josephine Miles and the Origins of Distant Reading.” Modernism/Modernity Print Plus, April. https://modernismmodernity.org/forums/posts/search-and-replace.\n\n\nHope, Jonathan, and Michael Witmore. 2010. “The Hundredth Psalm to the Tune of ’Green Sleeves’: Digital Approaches to Shakespeare’s Language of Genre.” Shakespeare Quarterly 61 (3): 357–90.\n\n\nKulick, Seth, and Neville Ryant. 2020. “Parsing Early Modern English for Linguistic Search.” arXiv:2002.10546 [Cs], February. http://arxiv.org/abs/2002.10546.\n\n\nWitmore, Michael, Jonathan Hope, and Michael Gleicher. 2016. “Digital Approaches to the Language of Shakespearean Tragedy.” In The Oxford Handbook of Shakespearean Tragedy, edited by Michael Neill and David Schalkwyk. https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780198724193.001.0001/oxfordhb-9780198724193-e-20.\n\n\nYang, Yi, and Jacob Eisenstein. 2016. “Part-of-Speech Tagging for Historical English.” arXiv:1603.03144 [Cs], April. http://arxiv.org/abs/1603.03144.",
     "crumbs": [
       "**Ask Questions About:**",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Words</span>"
@@ -157,6 +190,17 @@
     "title": "4  Letters",
     "section": "",
     "text": "4.1 Sample Research Questions",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Letters</span>"
+    ]
+  },
+  {
+    "objectID": "letters.html#sample-research-questions",
+    "href": "letters.html#sample-research-questions",
+    "title": "4  Letters",
+    "section": "",
+    "text": "Can we discover who printed a text based on damaged pieces of type?\nDoes Spenser’s spelling indicate a distinct use of archaism?\nCan different letterforms and damages be detected algorithimically?",
     "crumbs": [
       "**Ask Questions About:**",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Letters</span>"
@@ -189,7 +233,7 @@
     "href": "letters.html#references",
     "title": "4  Letters",
     "section": "4.4 References",
-    "text": "4.4 References",
+    "text": "4.4 References\n\nChristopher N. Warren et al. (2023)\nChristopher N. Warren et al. (2020)\nGoyal et al. (2020)\nVogler et al. (2024)\nBasu and Loewenstein (2019)\n\n\n\n\n\nBasu, Anupam, and Joseph Loewenstein. 2019. “Spenser’s Spell: Archaism and Historical Stylometrics.” Spenser Studies 33 (January): 63–102. https://doi.org/10.1086/700300.\n\n\nGoyal, Kartik, Chris Dyer, Christopher Warren, Max G’Sell, and Taylor Berg-Kirkpatrick. 2020. “A Probabilistic Generative Model for Typographical Analysis of Early Modern Printing.” arXiv. https://doi.org/10.48550/arXiv.2005.01646.\n\n\nVogler, Nikolai, Kartik Goyal, Samuel V. Lemley, D. J. Schuldt, Christopher N. Warren, Max G’Sell, and Taylor Berg-Kirkpatrick. 2024. “Clustering Running Titles to Understand the Printing of Early Modern Books.” In Document Analysis and Recognition - ICDAR 2024, edited by Elisa H. Barney Smith, Marcus Liwicki, and Liangrui Peng, 374–90. Cham: Springer Nature Switzerland. https://doi.org/10.1007/978-3-031-70543-4_22.\n\n\nWarren, Christopher N, Samuel V Lemley, D J Schuldt, Elizabeth Dieterich, Laura S DeLuca, Max G’Sell, Taylor Berg-Kirkpatrick, Kari Thomas, Kartik Goyal, and Nikolai Vogler. 2023. “Who Rpinted Shakespeare’s Fourth Folio?” Shakespeare Quarterly 74 (2): 139–46. https://doi.org/10.1093/sq/quad021.\n\n\nWarren, Christopher N., Pierce Wiliams, Shruti Rijhwani, and Max G’Sell. 2020. “Damaged Type and Areopagitica’s Clandestine Printers.” Milton Studies 62 (1): 1–47. https://muse.jhu.edu/pub/2/article/748968.",
     "crumbs": [
       "**Ask Questions About:**",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Letters</span>"
@@ -207,11 +251,22 @@
     ]
   },
   {
+    "objectID": "images.html#sample-research-questions",
+    "href": "images.html#sample-research-questions",
+    "title": "5  Images",
+    "section": "",
+    "text": "Can books/printers/authors be identified from images of book parts, e.g. running headers or printers’ ornaments?\nHow do graphs and plots communicate uncertainty?",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Images</span>"
+    ]
+  },
+  {
     "objectID": "images.html#tools-and-websites",
     "href": "images.html#tools-and-websites",
     "title": "5  Images",
     "section": "5.2 Tools and Websites",
-    "text": "5.2 Tools and Websites\n\nPrint & Probability\nCatalog of Distinctive Type\nInternet Archive Early English Books:\n\n1475–1640\n1641–1700\n\nEnglish Broadside Ballad Archive",
+    "text": "5.2 Tools and Websites\n\nPrint & Probability\nCatalog of Distinctive Type\nInternet Archive Early English Books:\n\n1475–1640\n1641–1700\n\nEnglish Broadside Ballad Archive\nBritish Armorial Bindings\nCompositor",
     "crumbs": [
       "**Ask Questions About:**",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Images</span>"
@@ -233,7 +288,7 @@
     "href": "images.html#references",
     "title": "5  Images",
     "section": "5.4 References",
-    "text": "5.4 References",
+    "text": "5.4 References\n\nChristopher N. Warren et al. (2023)\nChristopher N. Warren et al. (2020)\nGoyal et al. (2020)\nVogler et al. (2024)\nDrucker (2011)\n\n\n\n\n\nDrucker, Johanna. 2011. “Humanities Approaches to Graphical Display.” Digital Humanities Quarterly 005 (1).\n\n\nGoyal, Kartik, Chris Dyer, Christopher Warren, Max G’Sell, and Taylor Berg-Kirkpatrick. 2020. “A Probabilistic Generative Model for Typographical Analysis of Early Modern Printing.” arXiv. https://doi.org/10.48550/arXiv.2005.01646.\n\n\nVogler, Nikolai, Kartik Goyal, Samuel V. Lemley, D. J. Schuldt, Christopher N. Warren, Max G’Sell, and Taylor Berg-Kirkpatrick. 2024. “Clustering Running Titles to Understand the Printing of Early Modern Books.” In Document Analysis and Recognition - ICDAR 2024, edited by Elisa H. Barney Smith, Marcus Liwicki, and Liangrui Peng, 374–90. Cham: Springer Nature Switzerland. https://doi.org/10.1007/978-3-031-70543-4_22.\n\n\nWarren, Christopher N, Samuel V Lemley, D J Schuldt, Elizabeth Dieterich, Laura S DeLuca, Max G’Sell, Taylor Berg-Kirkpatrick, Kari Thomas, Kartik Goyal, and Nikolai Vogler. 2023. “Who Rpinted Shakespeare’s Fourth Folio?” Shakespeare Quarterly 74 (2): 139–46. https://doi.org/10.1093/sq/quad021.\n\n\nWarren, Christopher N., Pierce Wiliams, Shruti Rijhwani, and Max G’Sell. 2020. “Damaged Type and Areopagitica’s Clandestine Printers.” Milton Studies 62 (1): 1–47. https://muse.jhu.edu/pub/2/article/748968.",
     "crumbs": [
       "**Ask Questions About:**",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Images</span>"
@@ -251,11 +306,22 @@
     ]
   },
   {
+    "objectID": "people.html#sample-research-questions",
+    "href": "people.html#sample-research-questions",
+    "title": "6  People",
+    "section": "",
+    "text": "How did Milton’s place in historical social networks impact his writing?\nWhat makes a “significant” person in early modern England and how do we identify them?\nHow were early modern women instrumental in the creation and maintenance of the Hartlib Circle?",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>People</span>"
+    ]
+  },
+  {
     "objectID": "people.html#tools-and-websites",
     "href": "people.html#tools-and-websites",
     "title": "6  People",
     "section": "6.2 Tools and Websites",
-    "text": "6.2 Tools and Websites\n\nOxford Dictionary of National Biography\nWikidata\nSix Degrees of Francis Bacon\nTudor Networks of Power\nVirtual International Authority File\nOpenRefine",
+    "text": "6.2 Tools and Websites\n\nOxford Dictionary of National Biography\nWikidata\nSix Degrees of Francis Bacon\nTudor Networks of Power\nWomen Writers Project\nBook Owners Online\nSlaveVoyages\nVirtual International Authority File\nOpenRefine",
     "crumbs": [
       "**Ask Questions About:**",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>People</span>"
@@ -277,7 +343,7 @@
     "href": "people.html#references",
     "title": "6  People",
     "section": "6.4 References",
-    "text": "6.4 References",
+    "text": "6.4 References\n\nHeffernan and Sagner Buurma (2018)\nQuiring (2024)\nRaamsdonk and Ahnert (2022)\nAhnert and Ahnert (2015)\nAhnert et al. (2020)\nAhnert and Ahnert (2019)\nLadd (2022)\nGreteman (2015)\nHenderson et al. (2012)\nWatts and Strogatz (1998)\nWarren et al. (2016)\nGranovetter (1973)\nLadd et al. (2017)\nLangmead et al. (2016)\nGavin (2016)\nBourke (2017)\n\n\n\n\n\nAhnert, Ruth, and Sebastian E. Ahnert. 2015. “Protestant Letter Networks in the Reign of Mary I: A Quantitative Approach.” ELH 82 (1): 1–1. https://doi.org/10.1353/elh.2015.0000.\n\n\n———. 2019. “Metadata, Surveillance and the Tudor State.” History Workshop Journal 87 (April): 27–51. https://doi.org/10.1093/hwj/dby033.\n\n\nAhnert, Ruth, Sebastian E. Ahnert, Catherine Nicole Coleman, and Scott B. Weingart. 2020. The Network Turn: Changing Perspectives in the Humanities. Cambridge UP. https://www.cambridge.org/core/elements/network-turn/CC38F2EA9F51A6D1AFCB7E005218BBE5.\n\n\nBourke, Evan. 2017. “Female Involvement, Membership, and Centrality: A Social Network Analysis of the Hartlib Circle.” Literature Compass 14 (4): n/a–. https://doi.org/10.1111/lic3.12388.\n\n\nGavin, Michael. 2016. “Historical Text Networks: The Sociology of Early English Criticism.” Eighteenth-Century Studies 50 (1): 53–80. https://doi.org/10.1353/ecs.2016.0041.\n\n\nGranovetter, Mark S. 1973. “The Strength of Weak Ties.” American Journal of Sociology 78 (6): 1360–80. https://doi.org/10.1086/225469.\n\n\nGreteman, Blaine. 2015. “Milton and the Early Modern Social Network: The Case of the Epitaphium Damonis.” Milton Quarterly 49 (2): 79–95. https://doi.org/10.1111/milt.12126.\n\n\nHeffernan, Laura, and Rachel Sagner Buurma. 2018. “Search and Replace: Josephine Miles and the Origins of Distant Reading.” Modernism/Modernity Print Plus, April. https://modernismmodernity.org/forums/posts/search-and-replace.\n\n\nHenderson, Keith, Brian Gallagher, Tina Eliassi-Rad, Hanghang Tong, Sugato Basu, Leman Akoglu, Danai Koutra, Christos Faloutsos, and Lei Li. 2012. “RolX: Structural Role Extraction &Amp; Mining in Large Graphs.” In Proceedings of the 18th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 1231–39. KDD ’12. New York, NY, USA: Association for Computing Machinery. https://doi.org/10.1145/2339530.2339723.\n\n\nLadd, John. 2022. “Reassembling the Bacon: Crowdsourcing Historical Social Networks in the Redesign of Six Degrees of Francis Bacon.” In Social Knowledge Creation in the Humanities: Volume 2, edited by Aaron Mauro, 169–94. New Technologies in Medieval and Renaissance Studies 8. Iter Press. https://press.uchicago.edu/ucp/books/book/distributed/S/bo99702245.html.\n\n\nLadd, John, Jessica Otis, Christopher N. Warren, and Scott Weingart. 2017. “Exploring and Analyzing Network Data with Python.” Programming Historian, August. https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python.\n\n\nLangmead, Alison, Jessica M. Otis, Christopher Warren, Scott B. Weingart, and Lisa D. Zilinkski. 2016. “Towards Interoperable Network Ontologies for the Digital Humanities.” International Journal of Humanities and Arts Computing,Intl J Humanities & Arts Computing 10 (1): 22–35. https://doi.org/10.3366/ijhac.2016.0157.\n\n\nQuiring, Ana. 2024. “Fingerprints of British Book History: A Feminist Labor History of EEBO.” Digital Humanities Quarterly 18 (1). https://www.digitalhumanities.org/dhq/vol/18/1/000718/000718.html.\n\n\nRaamsdonk, Esther van, and Ruth Ahnert. 2022. “John Milton’s Network and the Republic of Letters  Renaissance and Reformation.” Renaissance and Reformation 44 (3).\n\n\nWarren, Christopher N., Daniel Shore, Jessica Otis, Lawrence Wang, Mike Finegold, and Cosma Shalizi. 2016. “Six Degrees of Francis Bacon: A Statistical Method for Reconstructing Large Historical Social Networks.” Digital Humanities Quarterly 10 (3). http://digitalhumanities.org/dhq/vol/10/3/000244/000244.html.\n\n\nWatts, Duncan J., and Steven H. Strogatz. 1998. “Collective Dynamics of ‘Small-World’ Networks.” Nature 393 (6684): 440–42. https://doi.org/10.1038/30918.",
     "crumbs": [
       "**Ask Questions About:**",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>People</span>"
@@ -295,11 +361,22 @@
     ]
   },
   {
+    "objectID": "places.html#sample-research-questions",
+    "href": "places.html#sample-research-questions",
+    "title": "7  Places",
+    "section": "",
+    "text": "How does proximity of bookstalls impact printer collaborations?\nCan locations be identified from early modern books?\nHow does territorial expansion and border negotiation change over time?",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Places</span>"
+    ]
+  },
+  {
     "objectID": "places.html#tools-and-websites",
     "href": "places.html#tools-and-websites",
     "title": "7  Places",
     "section": "7.2 Tools and Websites",
-    "text": "7.2 Tools and Websites\n\nMap of Early Modern London\nVirtual International Authority File\nOpenRefine\nQGIS\nArcGIS",
+    "text": "7.2 Tools and Websites\n\nMap of Early Modern London\nVirtual Paul’s Cross\nSlaveVoyages\nVirtual International Authority File\nOpenRefine\nQGIS\nArcGIS",
     "crumbs": [
       "**Ask Questions About:**",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Places</span>"
@@ -321,54 +398,130 @@
     "href": "places.html#references",
     "title": "7  Places",
     "section": "7.4 References",
-    "text": "7.4 References",
+    "text": "7.4 References\n\nKelley (2017)\nHolmes (2017)\nBerman, Mostern, and Southall (2016)\nJenstad (2011)\n\n\n\n\n\nBerman, Merrick Lex, Ruth Mostern, and Humphrey Southall, eds. 2016. Placing Names: Enriching and Integrating Gazetteers. Indiana University Press. https://doi.org/10.2307/j.ctt2005zq7.\n\n\nHolmes, Martin. 2017. “Whatever Happened to Interchange?” Digital Scholarship in the Humanities 32 (suppl_1): i63–68. https://doi.org/10.1093/llc/fqw048.\n\n\nJenstad, Janelle. 2011. “Using Early Modern Maps in Literary Studies: Views and Caveats from London.” In GeoHumanities. Routledge.\n\n\nKelley, Shannon. 2017. “Getting on the Map: A Case Study in Digital Pedagogy and Undergraduate Crowdsourcing.” Digital Humanities Quarterly 11 (3). https://www.digitalhumanities.org/dhq/vol/11/3/000330/000330.html.",
     "crumbs": [
       "**Ask Questions About:**",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Places</span>"
     ]
   },
   {
-    "objectID": "corpora.html",
-    "href": "corpora.html",
-    "title": "8  Corpora",
+    "objectID": "ideas.html",
+    "href": "ideas.html",
+    "title": "8  Ideas",
     "section": "",
     "text": "8.1 Sample Research Questions",
     "crumbs": [
       "**Ask Questions About:**",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Corpora</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Ideas</span>"
+    ]
+  },
+  {
+    "objectID": "ideas.html#sample-research-questions",
+    "href": "ideas.html#sample-research-questions",
+    "title": "8  Ideas",
+    "section": "",
+    "text": "Which texts discuss a certain topic, i.e. cooking, regardless of what words they use?\nHow should early modern professions be categorized, and how are they different from modern categories?\nHow did early modern people deal with quantification and computation?",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Ideas</span>"
+    ]
+  },
+  {
+    "objectID": "ideas.html#tools-and-websites",
+    "href": "ideas.html#tools-and-websites",
+    "title": "8  Ideas",
+    "section": "8.2 Tools and Websites",
+    "text": "8.2 Tools and Websites\n\nEarlyPrint Corpus Search Beta\nEarlyPrint Bibliographia\nMALLET\nNomic Atlas",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Ideas</span>"
+    ]
+  },
+  {
+    "objectID": "ideas.html#activities",
+    "href": "ideas.html#activities",
+    "title": "8  Ideas",
+    "section": "8.3 Activities",
+    "text": "8.3 Activities",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Ideas</span>"
+    ]
+  },
+  {
+    "objectID": "ideas.html#references",
+    "href": "ideas.html#references",
+    "title": "8  Ideas",
+    "section": "8.4 References",
+    "text": "8.4 References\n\nFurner (2016)\nLavin (2021)\nWernimont (2019)\nAhnert and Ahnert (2019)\nLangmead et al. (2016)\nBode (2017)\n\n\n\n\n\nAhnert, Ruth, and Sebastian E. Ahnert. 2019. “Metadata, Surveillance and the Tudor State.” History Workshop Journal 87 (April): 27–51. https://doi.org/10.1093/hwj/dby033.\n\n\nBode, Katherine. 2017. “The Equivalence of ‘Close’ And ‘Distant’ Reading; Or, Toward a New Object for Data-Rich Literary History.” Modern Language Quarterly 78 (1): 77–106. https://doi.org/10.1215/00267929-3699787.\n\n\nFurner, Jonathan. 2016. “‘Data’: The Data.” In Information Cultures in the Digital Age: A Festschrift in Honor of Rafael Capurro, edited by Matthew Kelly and Jared Bielby, 287–306. Wiesbaden: Springer Fachmedien. https://doi.org/10.1007/978-3-658-14681-8_17.\n\n\nLangmead, Alison, Jessica M. Otis, Christopher Warren, Scott B. Weingart, and Lisa D. Zilinkski. 2016. “Towards Interoperable Network Ontologies for the Digital Humanities.” International Journal of Humanities and Arts Computing,Intl J Humanities & Arts Computing 10 (1): 22–35. https://doi.org/10.3366/ijhac.2016.0157.\n\n\nLavin, Matthew. 2021. “Why Digital Humanists Should Emphasize Situated Data over Capta.” Digital Humanities Quarterly 015 (2).\n\n\nWernimont, Jacqueline. 2019. Numbered Lives: Life and Death in Quantum Media. Edited by Elizabeth Losh and Celia Pearce. Media Origins. Cambridge, MA, USA: MIT Press.",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Ideas</span>"
+    ]
+  },
+  {
+    "objectID": "corpora.html",
+    "href": "corpora.html",
+    "title": "9  Corpora",
+    "section": "",
+    "text": "9.1 Sample Research Questions",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Corpora</span>"
+    ]
+  },
+  {
+    "objectID": "corpora.html#sample-research-questions",
+    "href": "corpora.html#sample-research-questions",
+    "title": "9  Corpora",
+    "section": "",
+    "text": "How many subjects exist within the early modern corpus?\nHow pervasive is poetry in early modern print?\nWhich texts are most similar or different?",
+    "crumbs": [
+      "**Ask Questions About:**",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Corpora</span>"
     ]
   },
   {
     "objectID": "corpora.html#tools-and-websites",
     "href": "corpora.html#tools-and-websites",
-    "title": "8  Corpora",
-    "section": "8.2 Tools and Websites",
-    "text": "8.2 Tools and Websites\n\nEarlyPrint Corpus Search\nEarlyPrint Bibliographia\nEarlyPrint + Python\nNomic Atlas\nGPT4All\nOllama",
+    "title": "9  Corpora",
+    "section": "9.2 Tools and Websites",
+    "text": "9.2 Tools and Websites\n\nEarlyPrint Corpus Search\nEarlyPrint Bibliographia\nEarlyPrint + Python\nNomic Atlas\nGPT4All\nOllama",
     "crumbs": [
       "**Ask Questions About:**",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Corpora</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Corpora</span>"
     ]
   },
   {
     "objectID": "corpora.html#activities",
     "href": "corpora.html#activities",
-    "title": "8  Corpora",
-    "section": "8.3 Activities",
-    "text": "8.3 Activities",
+    "title": "9  Corpora",
+    "section": "9.3 Activities",
+    "text": "9.3 Activities",
     "crumbs": [
       "**Ask Questions About:**",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Corpora</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Corpora</span>"
     ]
   },
   {
     "objectID": "corpora.html#references",
     "href": "corpora.html#references",
-    "title": "8  Corpora",
-    "section": "8.4 References",
-    "text": "8.4 References",
+    "title": "9  Corpora",
+    "section": "9.4 References",
+    "text": "9.4 References\n\nSiefring and Meyer (2013)\nD’Souza and Mimno (2023)\nBender et al. (2021)\nMitchell (2024)\nGadd (2009)\nGavin (2022)\nYang and Eisenstein (2016)\nKulick and Ryant (2020)\nBode (2017)\nBasu (2025)\n\n\n\n\n\nBasu, Anupam. 2025. Shakespeare and Scale: The Archive of Early Printed English. Cambridge Elements: Shakespeare and Text. Cambridge UP. https://www.cambridge.org/core/elements/shakespeare-and-scale/B3EB39E9F6049B8A203150FCB2DE4E5E.\n\n\nBender, Emily M., Timnit Gebru, Angelina McMillan-Major, and Shmargaret Shmitchell. 2021. “On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?” In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency, 610–23. FAccT ’21. New York, NY, USA: Association for Computing Machinery. https://doi.org/10.1145/3442188.3445922.\n\n\nBode, Katherine. 2017. “The Equivalence of ‘Close’ And ‘Distant’ Reading; Or, Toward a New Object for Data-Rich Literary History.” Modern Language Quarterly 78 (1): 77–106. https://doi.org/10.1215/00267929-3699787.\n\n\nD’Souza, Lyra, and David Mimno. 2023. “The Chatbot and the Canon: Poetry Memorization in LLMs.” In. https://www.semanticscholar.org/paper/The-Chatbot-and-the-Canon%3A-Poetry-Memorization-in-D'Souza-Mimno/c4e6167d156c8d20e7f3579ad1edd9bac8b5bbca.\n\n\nGadd, Ian. 2009. “The Use and Misuse of Early English Books Online.” Literature Compass 6 (3): 680–92. https://doi.org/10.1111/j.1741-4113.2009.00632.x.\n\n\nGavin, Michael. 2022. Literary Mathematics: Quantitative Theory for Textual Studies. Stanford: Stanford University Press.\n\n\nKulick, Seth, and Neville Ryant. 2020. “Parsing Early Modern English for Linguistic Search.” arXiv:2002.10546 [Cs], February. http://arxiv.org/abs/2002.10546.\n\n\nMitchell, Melanie. 2024. “The Metaphors of Artificial Intelligence.” Science 386 (6723): eadt6140. https://doi.org/10.1126/science.adt6140.\n\n\nSiefring, Judith, and Eric T. Meyer. 2013. “Sustaining the EEBO-TCP Corpus in Transition: Report on the TIDSR Benchmarking Study.” {SSRN} {Scholarly} {Paper}. Rochester, NY: Social Science Research Network. https://doi.org/10.2139/ssrn.2236202.\n\n\nYang, Yi, and Jacob Eisenstein. 2016. “Part-of-Speech Tagging for Historical English.” arXiv:1603.03144 [Cs], April. http://arxiv.org/abs/1603.03144.",
     "crumbs": [
       "**Ask Questions About:**",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Corpora</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Corpora</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Ahnert, Ruth, and Sebastian E. Ahnert. 2015. “Protestant\nLetter Networks in the Reign of\nMary I: A\nQuantitative Approach.” ELH 82\n(1): 1–1. https://doi.org/10.1353/elh.2015.0000.\n\n\n———. 2019. “Metadata, Surveillance and the\nTudor State.” History Workshop\nJournal 87 (April): 27–51. https://doi.org/10.1093/hwj/dby033.\n\n\nAhnert, Ruth, Sebastian E. Ahnert, Catherine Nicole Coleman, and Scott\nB. Weingart. 2020. The Network Turn:\nChanging Perspectives in the\nHumanities. Cambridge UP. https://www.cambridge.org/core/elements/network-turn/CC38F2EA9F51A6D1AFCB7E005218BBE5.\n\n\nAlgee-Hewitt, Mark. 2017. “Distributed Character:\nQuantitative Models of the\nEnglish Stage, 1550–1900.” New\nLiterary History 48 (4): 751–82. https://doi.org/10.1353/nlh.2017.0038.\n\n\nBasu, Anupam. 2025. Shakespeare and Scale:\nThe Archive of Early\nPrinted English. Cambridge\nElements: Shakespeare and Text.\nCambridge UP. https://www.cambridge.org/core/elements/shakespeare-and-scale/B3EB39E9F6049B8A203150FCB2DE4E5E.\n\n\nBasu, Anupam, and Joseph Loewenstein. 2019. “Spenser’s\nSpell: Archaism and Historical\nStylometrics.” Spenser Studies 33\n(January): 63–102. https://doi.org/10.1086/700300.\n\n\nBender, Emily M., Timnit Gebru, Angelina McMillan-Major, and Shmargaret\nShmitchell. 2021. “On the Dangers of\nStochastic Parrots: Can\nLanguage Models Be\nToo Big?” In Proceedings of the\n2021 ACM Conference on Fairness,\nAccountability, and Transparency, 610–23.\nFAccT ’21. New York, NY, USA: Association for Computing\nMachinery. https://doi.org/10.1145/3442188.3445922.\n\n\nBerman, Merrick Lex, Ruth Mostern, and Humphrey Southall, eds. 2016.\nPlacing Names: Enriching and\nIntegrating Gazetteers. Indiana\nUniversity Press. https://doi.org/10.2307/j.ctt2005zq7.\n\n\nBode, Katherine. 2017. “The Equivalence of\n‘Close’ And\n‘Distant’ Reading;\nOr, Toward a New Object for\nData-Rich Literary\nHistory.” Modern Language Quarterly 78 (1):\n77–106. https://doi.org/10.1215/00267929-3699787.\n\n\nBourke, Evan. 2017. “Female Involvement,\nMembership, and Centrality: A\nSocial Network Analysis of the\nHartlib Circle.” Literature\nCompass 14 (4): n/a–. https://doi.org/10.1111/lic3.12388.\n\n\nBurrows, John, and Hugh Craig. 2001. “Lucy Hutchinson\nand the Authorship of Two\nSeventeenth-Century Poems:\nA Computational Approach.”\nSeventeenth Century 16 (2): 259. https://doi.org/10.1080/0268117X.2001.10555493.\n\n\nCraig, Hugh. 2011. “Shakespeare’s Vocabulary:\nMyth and Reality.” Shakespeare\nQuarterly 62 (1): 53–74. https://doi.org/10.1353/shq.2011.0002.\n\n\nD’Souza, Lyra, and David Mimno. 2023. “The Chatbot\nand the Canon: Poetry\nMemorization in LLMs.” In. https://www.semanticscholar.org/paper/The-Chatbot-and-the-Canon%3A-Poetry-Memorization-in-D'Souza-Mimno/c4e6167d156c8d20e7f3579ad1edd9bac8b5bbca.\n\n\nDrucker, Johanna. 2011. “Humanities Approaches to\nGraphical Display.” Digital\nHumanities Quarterly 005 (1).\n\n\nEve, Martin Paul. 2019. Close Reading with\nComputers: Textual Scholarship,\nComputational Formalism, and\nDavid Mitchell’s Cloud\nAtlas. Stanford: Stanford University Press.\n\n\nFurner, Jonathan. 2016. “‘Data’:\nThe Data.” In Information Cultures\nin the Digital Age: A\nFestschrift in Honor of Rafael\nCapurro, edited by Matthew Kelly and Jared Bielby,\n287–306. Wiesbaden: Springer Fachmedien. https://doi.org/10.1007/978-3-658-14681-8_17.\n\n\nGadd, Ian. 2009. “The Use and Misuse of\nEarly English Books\nOnline.” Literature Compass 6 (3): 680–92.\nhttps://doi.org/10.1111/j.1741-4113.2009.00632.x.\n\n\nGavin, Michael. 2016. “Historical Text\nNetworks: The Sociology of\nEarly English Criticism.”\nEighteenth-Century Studies 50 (1): 53–80. https://doi.org/10.1353/ecs.2016.0041.\n\n\n———. 2022. Literary Mathematics:\nQuantitative Theory for Textual\nStudies. Stanford: Stanford University Press.\n\n\nGoyal, Kartik, Chris Dyer, Christopher Warren, Max G’Sell, and Taylor\nBerg-Kirkpatrick. 2020. “A Probabilistic\nGenerative Model for\nTypographical Analysis of Early\nModern Printing.” arXiv. https://doi.org/10.48550/arXiv.2005.01646.\n\n\nGranovetter, Mark S. 1973. “The Strength of\nWeak Ties.” American Journal of\nSociology 78 (6): 1360–80. https://doi.org/10.1086/225469.\n\n\nGreteman, Blaine. 2015. “Milton and the Early\nModern Social Network:\nThe Case of the Epitaphium\nDamonis.” Milton Quarterly 49 (2): 79–95.\nhttps://doi.org/10.1111/milt.12126.\n\n\nHeffernan, Laura, and Rachel Sagner Buurma. 2018. “Search and\nReplace: Josephine Miles and the\nOrigins of Distant\nReading.” Modernism/Modernity Print Plus,\nApril. https://modernismmodernity.org/forums/posts/search-and-replace.\n\n\nHenderson, Keith, Brian Gallagher, Tina Eliassi-Rad, Hanghang Tong,\nSugato Basu, Leman Akoglu, Danai Koutra, Christos Faloutsos, and Lei Li.\n2012. “RolX: Structural Role Extraction &Amp;\nMining in Large Graphs.” In Proceedings of the 18th\nACM SIGKDD International Conference on\nKnowledge Discovery and Data Mining, 1231–39.\nKDD ’12. New York, NY, USA: Association for Computing\nMachinery. https://doi.org/10.1145/2339530.2339723.\n\n\nHolmes, Martin. 2017. “Whatever Happened to Interchange?”\nDigital Scholarship in the Humanities 32 (suppl_1): i63–68. https://doi.org/10.1093/llc/fqw048.\n\n\nHope, Jonathan, and Michael Witmore. 2010. “The\nHundredth Psalm to the Tune of\n’Green Sleeves’: Digital\nApproaches to Shakespeare’s\nLanguage of Genre.” Shakespeare\nQuarterly 61 (3): 357–90.\n\n\nJenstad, Janelle. 2011. “Using Early Modern Maps in Literary\nStudies: Views and Caveats from\nLondon.” In GeoHumanities.\nRoutledge.\n\n\nKelley, Shannon. 2017. “Getting on the Map:\nA Case Study in\nDigital Pedagogy and\nUndergraduate Crowdsourcing.”\nDigital Humanities Quarterly 11 (3). https://www.digitalhumanities.org/dhq/vol/11/3/000330/000330.html.\n\n\nKichuk, Diana. 2007. “Metamorphosis: Remediation in\nEarly English Books\nOnline (EEBO).” Literary and\nLinguistic Computing 22 (3): 291–303. https://doi.org/10.1093/llc/fqm018.\n\n\nKulick, Seth, and Neville Ryant. 2020. “Parsing Early\nModern English for Linguistic\nSearch.” arXiv:2002.10546 [Cs], February.\nhttp://arxiv.org/abs/2002.10546.\n\n\nLadd, John. 2022. “Reassembling the Bacon:\nCrowdsourcing Historical Social\nNetworks in the Redesign of Six\nDegrees of Francis Bacon.”\nIn Social Knowledge Creation in the\nHumanities: Volume 2, edited by Aaron\nMauro, 169–94. New Technologies in Medieval\nand Renaissance Studies 8. Iter Press. https://press.uchicago.edu/ucp/books/book/distributed/S/bo99702245.html.\n\n\nLadd, John, Jessica Otis, Christopher N. Warren, and Scott Weingart.\n2017. “Exploring and Analyzing Network\nData with Python.” Programming\nHistorian, August. https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python.\n\n\nLangmead, Alison, Jessica M. Otis, Christopher Warren, Scott B.\nWeingart, and Lisa D. Zilinkski. 2016. “Towards\nInteroperable Network Ontologies\nfor the Digital Humanities.”\nInternational Journal of Humanities and Arts Computing,Intl J\nHumanities & Arts Computing 10 (1): 22–35. https://doi.org/10.3366/ijhac.2016.0157.\n\n\nLavin, Matthew. 2021. “Why Digital\nHumanists Should Emphasize\nSituated Data over Capta.”\nDigital Humanities Quarterly 015 (2).\n\n\nMartin, Shawn. 2007. “EEBO, Microfilm,\nand Umberto Eco: Historical\nLessons and Future Directions for\nBuilding Electronic\nCollections” 36 (4): 159–64. https://doi.org/10.1515/MFIR.2007.159.\n\n\nMcLean, Austin J. 2001. “Early British\nPrinting Meets the Electronic\nAge: A Large-Scale\nDigitization Case Study”\n30 (4): 127–34. https://doi.org/10.1515/MFIR.2001.127.\n\n\nMisek, Linda Douglas. n.d. “COMPUTING A\nCONTEXT: STYLE, STRUCTURE,\nAND THE SELF-IMAGE\nOF SATAN IN\n’PARADISE LOST.’ (VOLUMES\nI AND II) -\nProQuest.” PhD thesis. Accessed June 23, 2023. https://www.proquest.com/openview/9a2ce163529a5cae4b7385715a96751b/1?pq-origsite=gscholar&cbl=18750&diss=y.\n\n\nMitchell, Melanie. 2024. “The Metaphors of Artificial\nIntelligence.” Science 386 (6723): eadt6140. https://doi.org/10.1126/science.adt6140.\n\n\nMueller, Martin. 2008. “Digital Shakespeare, or\nTowards a Literary\nInformatics.” Shakespeare 4 (3): 284–301.\nhttps://doi.org/10.1080/17450910802295179.\n\n\nQuiring, Ana. 2024. “Fingerprints of British\nBook History: A\nFeminist Labor History of\nEEBO.” Digital Humanities Quarterly 18 (1).\nhttps://www.digitalhumanities.org/dhq/vol/18/1/000718/000718.html.\n\n\nRaamsdonk, Esther van, and Ruth Ahnert. 2022. “John\nMilton’s Network and the Republic\nof Letters  Renaissance and\nReformation.” Renaissance and Reformation\n44 (3).\n\n\nSiefring, Judith, and Eric T. Meyer. 2013. “Sustaining the\nEEBO-TCP Corpus in\nTransition: Report on the TIDSR\nBenchmarking Study.” {SSRN} {Scholarly}\n{Paper}. Rochester, NY: Social Science Research Network. https://doi.org/10.2139/ssrn.2236202.\n\n\nThe New Oxford Shakespeare:\nAuthorship Companion. 2017. New\nOxford Shakespeare. Oxford, New York: Oxford\nUniversity Press.\n\n\nTrettien, Whitney. 2022. Cut/Copy/Paste:\nFragments from the History of\nBookwork. U of Minnesota P. https://www.upress.umn.edu/9781517904098/cutcopypaste/.\n\n\nVogler, Nikolai, Kartik Goyal, Samuel V. Lemley, D. J. Schuldt,\nChristopher N. Warren, Max G’Sell, and Taylor Berg-Kirkpatrick. 2024.\n“Clustering Running Titles\nto Understand the Printing\nof Early Modern Books.” In\nDocument Analysis and Recognition -\nICDAR 2024, edited by Elisa H. Barney Smith, Marcus\nLiwicki, and Liangrui Peng, 374–90. Cham: Springer Nature Switzerland.\nhttps://doi.org/10.1007/978-3-031-70543-4_22.\n\n\nWarren, Christopher N, Samuel V Lemley, D J Schuldt, Elizabeth\nDieterich, Laura S DeLuca, Max G’Sell, Taylor Berg-Kirkpatrick, Kari\nThomas, Kartik Goyal, and Nikolai Vogler. 2023. “Who\nRpinted Shakespeare’s Fourth\nFolio?” Shakespeare Quarterly 74 (2):\n139–46. https://doi.org/10.1093/sq/quad021.\n\n\nWarren, Christopher N., Daniel Shore, Jessica Otis, Lawrence Wang, Mike\nFinegold, and Cosma Shalizi. 2016. “Six Degrees of\nFrancis Bacon: A\nStatistical Method for\nReconstructing Large Historical\nSocial Networks.” Digital\nHumanities Quarterly 10 (3). http://digitalhumanities.org/dhq/vol/10/3/000244/000244.html.\n\n\nWarren, Christopher N., Pierce Wiliams, Shruti Rijhwani, and Max G’Sell.\n2020. “Damaged Type and Areopagitica’s\nClandestine Printers.” Milton\nStudies 62 (1): 1–47. https://muse.jhu.edu/pub/2/article/748968.\n\n\nWatts, Duncan J., and Steven H. Strogatz. 1998. “Collective\nDynamics of ‘Small-World’ Networks.” Nature\n393 (6684): 440–42. https://doi.org/10.1038/30918.\n\n\nWernimont, Jacqueline. 2019. Numbered Lives:\nLife and Death in Quantum\nMedia. Edited by Elizabeth Losh and Celia Pearce.\nMedia Origins. Cambridge, MA, USA: MIT Press.\n\n\nWitmore, Michael, Jonathan Hope, and Michael Gleicher. 2016.\n“Digital Approaches to the Language of\nShakespearean Tragedy.” In The\nOxford Handbook of Shakespearean\nTragedy, edited by Michael Neill and David Schalkwyk.\nhttps://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780198724193.001.0001/oxfordhb-9780198724193-e-20.\n\n\nYang, Yi, and Jacob Eisenstein. 2016. “Part-of-Speech\nTagging for Historical\nEnglish.” arXiv:1603.03144 [Cs], April. http://arxiv.org/abs/1603.03144.",
+    "crumbs": [
+      "References"
     ]
   }
 ]

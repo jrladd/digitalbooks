@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.56">
+<meta name="generator" content="quarto-1.6.39">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -38,10 +58,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-1577067484ec7a2ab3d04528a804f744.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -169,8 +189,14 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./ideas.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Ideas</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./corpora.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Corpora</span></span></a>
+ <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Corpora</span></span></a>
   </div>
 </li>
       </ul>
@@ -222,6 +248,11 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="sample-research-questions" class="level2" data-number="3.1">
 <h2 data-number="3.1" class="anchored" data-anchor-id="sample-research-questions"><span class="header-section-number">3.1</span> Sample Research Questions</h2>
+<ul>
+<li>When is the word “data” introduced to English and how does its use change over time?</li>
+<li>Does Shakespeare have a vocabulary distinct from other authors?</li>
+<li>How do we overcome historical spelling and word-form irregularity?</li>
+</ul>
 </section>
 <section id="tools-and-websites" class="level2" data-number="3.2">
 <h2 data-number="3.2" class="anchored" data-anchor-id="tools-and-websites"><span class="header-section-number">3.2</span> Tools and Websites</h2>
@@ -229,16 +260,18 @@ ul.task-list li input[type="checkbox"] {
 <li>EarlyPrint &amp; EEBO:
 <ul>
 <li><a href="https://earlyprint.org/lab/tool_ngram_browser.html?requestFromClient=%7B%221%22:%7B%22spe%22:%22love,loue%22,%22reg%22:%22%22,%22lem%22:%22%22,%22pos%22:%22%22,%22originalPos%22:%22%22%7D,%222%22:%7B%22spe%22:%22%22,%22reg%22:%22%22,%22lem%22:%22%22,%22pos%22:%22%22,%22originalPos%22:%22%22%7D,%223%22:%7B%22spe%22:%22%22,%22reg%22:%22%22,%22lem%22:%22%22,%22pos%22:%22%22,%22originalPos%22:%22%22%7D,%22databaseType%22:%22unigrams%22,%22smoothing%22:%22True%22,%22rollingAverage%22:%2220_year%22,%20%22instructionToggle%22:%20%22show%22%7D">EarlyPrint N-gram Browser</a></li>
-<li><a href="https://eplab.artsci.wustl.edu/corpus-frontend-1.2/eebotcp/search/">EarlyPrint Corpus Search</a></li>
+<li><a href="https://eplab.artsci.wustl.edu/corpus-frontend-3.1.1-SNAPSHOT/earlyprint/search/">EarlyPrint Corpus Search Beta</a></li>
 <li><a href="https://earlyprint.org/lab/tool_phrase_search.html">EarlyPrint Phrase Search</a></li>
 <li><a href="https://textcreationpartnership.org/tcp-texts/eebo-tcp-early-english-books-online/">EEBO-TCP</a></li>
 <li><a href="https://observablehq.com/@jrladd/eebo">What We Talk About When We Talk About EEBO</a></li>
+<li><a href="https://tei-c.org/">Text Encoding Initiative</a></li>
 </ul></li>
 <li>NLP &amp; Text Analysis
 <ul>
 <li><a href="https://voyant-tools.org/">Voyant</a></li>
 <li><a href="https://earlyprint.org/jupyterbook/intro.html">EarlyPrint + Python</a></li>
 <li><a href="https://morphadorner.northwestern.edu/">MorphAdorner</a></li>
+<li><a href="https://www.ling.upenn.edu/ppche/ppche-release-2016/index.html">Penn Parsed Corpora of Historical English</a></li>
 <li><a href="https://huggingface.co/Pclanglais/MonadGPT">MonadGPT</a></li>
 <li><a href="https://spacy.io/">SpaCy</a></li>
 <li><a href="https://stanfordnlp.github.io/stanza/">Stanza</a></li>
@@ -250,8 +283,48 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="references" class="level2" data-number="3.4">
 <h2 data-number="3.4" class="anchored" data-anchor-id="references"><span class="header-section-number">3.4</span> References</h2>
+<ul>
+<li><span class="citation" data-cites="heffernan_search_2018">Heffernan and Sagner Buurma (<a href="references.html#ref-heffernan_search_2018" role="doc-biblioref">2018</a>)</span></li>
+<li><span class="citation" data-cites="furner_data_2016">Furner (<a href="references.html#ref-furner_data_2016" role="doc-biblioref">2016</a>)</span></li>
+<li><span class="citation" data-cites="hope_hundredth_2010">Hope and Witmore (<a href="references.html#ref-hope_hundredth_2010" role="doc-biblioref">2010</a>)</span></li>
+<li><span class="citation" data-cites="craig_shakespeares_2011">Craig (<a href="references.html#ref-craig_shakespeares_2011" role="doc-biblioref">2011</a>)</span></li>
+<li><span class="citation" data-cites="yang_partspeech_2016">Yang and Eisenstein (<a href="references.html#ref-yang_partspeech_2016" role="doc-biblioref">2016</a>)</span></li>
+<li><span class="citation" data-cites="kulick_parsing_2020">Kulick and Ryant (<a href="references.html#ref-kulick_parsing_2020" role="doc-biblioref">2020</a>)</span></li>
+<li><span class="citation" data-cites="witmore_digital_2016">Witmore, Hope, and Gleicher (<a href="references.html#ref-witmore_digital_2016" role="doc-biblioref">2016</a>)</span></li>
+<li><span class="citation" data-cites="basu_shakespeare_2025">Basu (<a href="references.html#ref-basu_shakespeare_2025" role="doc-biblioref">2025</a>)</span></li>
+<li><span class="citation" data-cites="basu_spensers_2019">Basu and Loewenstein (<a href="references.html#ref-basu_spensers_2019" role="doc-biblioref">2019</a>)</span></li>
+</ul>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-basu_shakespeare_2025" class="csl-entry" role="listitem">
+Basu, Anupam. 2025. <em>Shakespeare and <span>Scale</span>: <span>The</span> <span>Archive</span> of <span>Early</span> <span>Printed</span> <span>English</span></em>. Cambridge <span>Elements</span>: <span>Shakespeare</span> and <span>Text</span>. Cambridge UP. <a href="https://www.cambridge.org/core/elements/shakespeare-and-scale/B3EB39E9F6049B8A203150FCB2DE4E5E">https://www.cambridge.org/core/elements/shakespeare-and-scale/B3EB39E9F6049B8A203150FCB2DE4E5E</a>.
+</div>
+<div id="ref-basu_spensers_2019" class="csl-entry" role="listitem">
+Basu, Anupam, and Joseph Loewenstein. 2019. <span>“Spenser’s <span>Spell</span>: <span>Archaism</span> and <span>Historical</span> <span>Stylometrics</span>.”</span> <em>Spenser Studies</em> 33 (January): 63–102. <a href="https://doi.org/10.1086/700300">https://doi.org/10.1086/700300</a>.
+</div>
+<div id="ref-craig_shakespeares_2011" class="csl-entry" role="listitem">
+Craig, Hugh. 2011. <span>“Shakespeare’s <span>Vocabulary</span>: <span>Myth</span> and <span>Reality</span>.”</span> <em>Shakespeare Quarterly</em> 62 (1): 53–74. <a href="https://doi.org/10.1353/shq.2011.0002">https://doi.org/10.1353/shq.2011.0002</a>.
+</div>
+<div id="ref-furner_data_2016" class="csl-entry" role="listitem">
+Furner, Jonathan. 2016. <span>“<span>‘<span>Data</span>’</span>: <span>The</span> Data.”</span> In <em>Information <span>Cultures</span> in the <span>Digital</span> <span>Age</span>: <span>A</span> <span>Festschrift</span> in <span>Honor</span> of <span>Rafael</span> <span>Capurro</span></em>, edited by Matthew Kelly and Jared Bielby, 287–306. Wiesbaden: Springer Fachmedien. <a href="https://doi.org/10.1007/978-3-658-14681-8_17">https://doi.org/10.1007/978-3-658-14681-8_17</a>.
+</div>
+<div id="ref-heffernan_search_2018" class="csl-entry" role="listitem">
+Heffernan, Laura, and Rachel Sagner Buurma. 2018. <span>“Search and <span>Replace</span>: <span>Josephine</span> <span>Miles</span> and the <span>Origins</span> of <span>Distant</span> <span>Reading</span>.”</span> <em>Modernism/Modernity Print Plus</em>, April. <a href="https://modernismmodernity.org/forums/posts/search-and-replace">https://modernismmodernity.org/forums/posts/search-and-replace</a>.
+</div>
+<div id="ref-hope_hundredth_2010" class="csl-entry" role="listitem">
+Hope, Jonathan, and Michael Witmore. 2010. <span>“The <span>Hundredth</span> <span>Psalm</span> to the <span>Tune</span> of ’<span>Green</span> <span>Sleeves</span>’: <span>Digital</span> <span>Approaches</span> to <span>Shakespeare</span>’s <span>Language</span> of <span>Genre</span>.”</span> <em>Shakespeare Quarterly</em> 61 (3): 357–90.
+</div>
+<div id="ref-kulick_parsing_2020" class="csl-entry" role="listitem">
+Kulick, Seth, and Neville Ryant. 2020. <span>“Parsing <span>Early</span> <span>Modern</span> <span>English</span> for <span>Linguistic</span> <span>Search</span>.”</span> <em>arXiv:2002.10546 [Cs]</em>, February. <a href="http://arxiv.org/abs/2002.10546">http://arxiv.org/abs/2002.10546</a>.
+</div>
+<div id="ref-witmore_digital_2016" class="csl-entry" role="listitem">
+Witmore, Michael, Jonathan Hope, and Michael Gleicher. 2016. <span>“Digital <span>Approaches</span> to the <span>Language</span> of <span>Shakespearean</span> <span>Tragedy</span>.”</span> In <em>The <span>Oxford</span> <span>Handbook</span> of <span>Shakespearean</span> <span>Tragedy</span></em>, edited by Michael Neill and David Schalkwyk. <a href="https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780198724193.001.0001/oxfordhb-9780198724193-e-20">https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780198724193.001.0001/oxfordhb-9780198724193-e-20</a>.
+</div>
+<div id="ref-yang_partspeech_2016" class="csl-entry" role="listitem">
+Yang, Yi, and Jacob Eisenstein. 2016. <span>“Part-of-<span>Speech</span> <span>Tagging</span> for <span>Historical</span> <span>English</span>.”</span> <em>arXiv:1603.03144 [Cs]</em>, April. <a href="http://arxiv.org/abs/1603.03144">http://arxiv.org/abs/1603.03144</a>.
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->
@@ -337,8 +410,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -449,7 +520,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
