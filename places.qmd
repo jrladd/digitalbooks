@@ -11,6 +11,7 @@
 - [Map of Early Modern London](https://mapoflondon.uvic.ca/)
 - [Virtual Paul's Cross](https://vpcross.chass.ncsu.edu/)
 - [SlaveVoyages](https://www.slavevoyages.org/)
+- [Atlas of Early Printing](https://atlas.lib.uiowa.edu/)
 - [Virtual International Authority File](https://viaf.org/en)
 - [OpenRefine](https://viaf.org/en)
 - [QGIS](https://qgis.org/)

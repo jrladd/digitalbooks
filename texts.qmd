@@ -15,12 +15,38 @@
 - [Digital Miscellanies Index](http://digitalmiscellaniesindex.org/)
 - [Manuscript Pamphleteering in Early Stuart England](https://mpese.ac.uk/)
 - [Early Modern Dramatic Paratexts](https://paratexts.folger.edu/keywordSearch)
+- [Union First Line Index](https://firstlines.folger.edu/)
 - [Reception Reader](https://receptionreader.com/)
 - [New Variorum Shakespeare](https://newvariorumshakespeare.org/)
 - [The Pulter Project](https://pulterproject.northwestern.edu/)
 - [The Spenser Archive](https://www.spenserarchive.org/spenserArchivePrototype/)
 
 ## Activities
+
+### Exploring Digitized Text
+
+1. Choose an EEBO-TCP text that you care about. Maybe it's a text you already know, but if not, how will you find something that interests you?
+
+2. Use the Discovery Engine to find similar texts.
+
+3. Download and assemble a small collection of texts.
+
+4. Look at the reading copy of your text and consider the completeness of the transcription.
+
+5. Find the text in Reception Reader and compare text reuse to what was shown in the Disco Engine.
+
+6. Try to locate your text in a different database/archive. If you can't, why not?
+
+### Comparing Search Results
+
+1. Choose a search topic, and use the same terms to look for it across three search interfaces:
+
+   - [EEBO-TCP Search](https://quod.lib.umich.edu/e/eebogroup/)
+   - [EarlyPrint Library](https://texts.earlyprint.org/exist/apps/shc/works/)
+   - [EarlyPrint Corpus Search](https://eplab.artsci.wustl.edu/corpus-frontend-3.1.1-SNAPSHOT/earlyprint/search/)
+
+2. Keeping in mind that all of these interfaces search essentially the same corpus, how are the results different? Are you locating *books* that contain your topic or *texts* that do? Are you able to find your results within those texts? How does the interface constrain what you're able to find?
+
 
 ## References
 

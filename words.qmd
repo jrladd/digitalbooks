@@ -27,6 +27,18 @@
 
 ## Activities
 
+### Comparing Word Search Strategies
+
+1. Choose a word, and search for it using Corpus Search and the N-Gram Browser. How the results different when you look for regularized and non-regularized forms?
+
+2. Select a phrase that includes that word, and devise the [CQL query](https://earlyprint.org/how-to/intro_to_linguistic_search.html) to search for it in Corpus Search. Look for the same term in the N-Gram Browser and Phrase Search. Can you begin to interpret the results of these three interfaces?
+
+3. Export/download the results of the Corpus Search and look within those results for related words or other collocates.
+
+### Text Analysis
+
+1. Follow the tutorials in the [EarlyPrint + Python](https://earlyprint.org/jupyterbook/intro.html), especially the Metadata and Text Analysis exercises.
+
 ## References
 
 - @heffernan_search_2018
