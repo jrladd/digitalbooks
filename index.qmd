@@ -25,9 +25,9 @@ We've all had the experience of visiting an amazing new website, taking a tutori
 ### Wednesday 21 May: Texts, Words, Letters
 
 - 9am – Coffee
-- **10am – Morning Session: Text Analysis & Search**
+- **10am – Morning Session: Text Analysis & Similarity**
 - Noon – Break
-- **1:30pm – Afternoon Session 1: Spelling & Similarity**
+- **1:30pm – Afternoon Session 1: Spelling & Search**
 - 3pm – Coffee Break
 - **3:30pm-5pm – Afternoon Session 2: Research Activities**
 - 5:15-7pm Ice Cream Social
