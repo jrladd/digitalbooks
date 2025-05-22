@@ -17,6 +17,9 @@
 - [SlaveVoyages](https://www.slavevoyages.org/)
 - [Virtual International Authority File](https://viaf.org/en)
 - [OpenRefine](https://viaf.org/en)
+- [Network Navigator](https://networknavigator.jrladd.com/)
+- [Gephi](https://gephi.org/)
+- [Network Analysis in Python](https://jrladd.com/networks/intro.html)
 
 ## Activities
 

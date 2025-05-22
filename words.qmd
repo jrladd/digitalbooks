@@ -24,6 +24,7 @@
   - [MonadGPT](https://huggingface.co/Pclanglais/MonadGPT)
   - [SpaCy](https://spacy.io/)
   - [Stanza](https://stanfordnlp.github.io/stanza/)
+  - [Introduction to Cultural Analytics and Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html)
 
 ## Activities
 
