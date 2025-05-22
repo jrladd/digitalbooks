@@ -20,6 +20,22 @@
 
 ## Activities
 
+### Searching for Early Modern People
+
+1. Search for the same person in *Six Degrees of Francis Bacon*, EarlyPrint Corpus Search, and *Tudor Networks of Power*. All three of these resources use different sets of data as their starting point and represent that data differently.
+
+2. Cross-check this data in the ODNB, VIAF, and the ESTC. What records can you download from each of these resources?
+
+### Network Visualization
+
+1. Choose a person, and export network data from *Six Degrees of Francis Bacon*.
+
+2. Convert the data to CSV with [SDFB-to-CSV](https://sdfb-to-csv.glitch.me/).
+
+3. Open the network data in a spreadsheet application (i.e. Excel). How is it organized?
+
+4. Visualize the data in [Network Navigator](https://networknavigator.jrladd.com/) and [Gephi](https://jrladd.com/networks/visualization/visualization.html).
+
 ## References
 
 - @heffernan_search_2018
