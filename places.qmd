@@ -19,6 +19,20 @@
 
 ## Activities
 
+### Conceptions of Place
+
+1. Take some time to look at 4 different "mapping" projects that consider space and place very differently: the [Map of Early Modern London's Agas Map](https://mapoflondon.uvic.ca/agas.htm), Virtual Paul's Cross, [SlaveVoyages' intro maps](https://www.slavevoyages.org/blog/tag/intro-maps), and the Atlas of Early Printing.
+
+2. For discussion, consider how the technical representations of place in these interfaces affect our understanding of these places. If the places in one interface were represented in another, how would that change our "reading" of that location?
+
+3. Using Corpus Search, try to find the names of one or more of the locations in these tools somewhere in the EarlyPrint corpus. What are the difficulties of locating place names? How is it similar or different from finding the names of people?
+
+### Encoding Places
+
+1. The Map of Early Modern London [uses XML](https://mapoflondon.uvic.ca/xml_outputs.htm) to encode its places. Read over [the short summary](https://mapoflondon.uvic.ca/xml_outputs.htm) of their XML types and browse some of the different documents.
+
+2. For discussion, consider how these are similar or different from the types of XML we worked with in the TCP and EarlyPrint texts, as well as the one your made yourself.
+
 ## References
 
 - @kelley_getting_2017

@@ -26,6 +26,8 @@
 
 2. Cross-check this data in the ODNB, VIAF, and the ESTC. What records can you download from each of these resources?
 
+3. In a text of your choice, search for all the proper nouns using Corpus Search, and download the results. Consider the steps it would take to convert this into a list of names (of people or places).
+
 ### Network Visualization
 
 1. Choose a person, and export network data from *Six Degrees of Francis Bacon*.
