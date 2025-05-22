@@ -332,7 +332,7 @@
     "href": "people.html#activities",
     "title": "6  People",
     "section": "6.3 Activities",
-    "text": "6.3 Activities",
+    "text": "6.3 Activities\n\n6.3.1 Searching for Early Modern People\n\nSearch for the same person in Six Degrees of Francis Bacon, EarlyPrint Corpus Search, and Tudor Networks of Power. All three of these resources use different sets of data as their starting point and represent that data differently.\nCross-check this data in the ODNB, VIAF, and the ESTC. What records can you download from each of these resources?\n\n\n\n6.3.2 Network Visualization\n\nChoose a person, and export network data from Six Degrees of Francis Bacon.\nConvert the data to CSV with SDFB-to-CSV.\nOpen the network data in a spreadsheet application (i.e. Excel). How is it organized?\nVisualize the data in Network Navigator and Gephi.",
     "crumbs": [
       "**Ask Questions About:**",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>People</span>"
