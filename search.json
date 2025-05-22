@@ -332,7 +332,7 @@
     "href": "people.html#activities",
     "title": "6  People",
     "section": "6.3 Activities",
-    "text": "6.3 Activities\n\n6.3.1 Searching for Early Modern People\n\nSearch for the same person in Six Degrees of Francis Bacon, EarlyPrint Corpus Search, and Tudor Networks of Power. All three of these resources use different sets of data as their starting point and represent that data differently.\nCross-check this data in the ODNB, VIAF, and the ESTC. What records can you download from each of these resources?\n\n\n\n6.3.2 Network Visualization\n\nChoose a person, and export network data from Six Degrees of Francis Bacon.\nConvert the data to CSV with SDFB-to-CSV.\nOpen the network data in a spreadsheet application (i.e. Excel). How is it organized?\nVisualize the data in Network Navigator and Gephi.",
+    "text": "6.3 Activities\n\n6.3.1 Searching for Early Modern People\n\nSearch for the same person in Six Degrees of Francis Bacon, EarlyPrint Corpus Search, and Tudor Networks of Power. All three of these resources use different sets of data as their starting point and represent that data differently.\nCross-check this data in the ODNB, VIAF, and the ESTC. What records can you download from each of these resources?\nIn a text of your choice, search for all the proper nouns using Corpus Search, and download the results. Consider the steps it would take to convert this into a list of names (of people or places).\n\n\n\n6.3.2 Network Visualization\n\nChoose a person, and export network data from Six Degrees of Francis Bacon.\nConvert the data to CSV with SDFB-to-CSV.\nOpen the network data in a spreadsheet application (i.e. Excel). How is it organized?\nVisualize the data in Network Navigator and Gephi.",
     "crumbs": [
       "**Ask Questions About:**",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>People</span>"
@@ -387,7 +387,7 @@
     "href": "places.html#activities",
     "title": "7  Places",
     "section": "7.3 Activities",
-    "text": "7.3 Activities",
+    "text": "7.3 Activities\n\n7.3.1 Conceptions of Place\n\nTake some time to look at 4 different “mapping” projects that consider space and place very differently: the Map of Early Modern London’s Agas Map, Virtual Paul’s Cross, SlaveVoyages’ intro maps, and the Atlas of Early Printing.\nFor discussion, consider how the technical representations of place in these interfaces affect our understanding of these places. If the places in one interface were represented in another, how would that change our “reading” of that location?\nUsing Corpus Search, try to find the names of one or more of the locations in these tools somewhere in the EarlyPrint corpus. What are the difficulties of locating place names? How is it similar or different from finding the names of people?\n\n\n\n7.3.2 Encoding Places\n\nThe Map of Early Modern London uses XML to encode its places. Read over the short summary of their XML types and browse some of the different documents.\nFor discussion, consider how these are similar or different from the types of XML we worked with in the TCP and EarlyPrint texts, as well as the one your made yourself.",
     "crumbs": [
       "**Ask Questions About:**",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Places</span>"
