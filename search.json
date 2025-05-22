@@ -156,7 +156,7 @@
     "href": "words.html#tools-and-websites",
     "title": "3  Words",
     "section": "3.2 Tools and Websites",
-    "text": "3.2 Tools and Websites\n\nEarlyPrint & EEBO:\n\nEarlyPrint N-gram Browser\nEarlyPrint Corpus Search Beta\nEarlyPrint Phrase Search\nEEBO-TCP\nWhat We Talk About When We Talk About EEBO\nText Encoding Initiative\n\nNLP & Text Analysis\n\nVoyant\nEarlyPrint + Python\nMorphAdorner\nPenn Parsed Corpora of Historical English\nMonadGPT\nSpaCy\nStanza",
+    "text": "3.2 Tools and Websites\n\nEarlyPrint & EEBO:\n\nEarlyPrint N-gram Browser\nEarlyPrint Corpus Search Beta\nEarlyPrint Phrase Search\nEEBO-TCP\nWhat We Talk About When We Talk About EEBO\nText Encoding Initiative\n\nNLP & Text Analysis\n\nVoyant\nEarlyPrint + Python\nMorphAdorner\nPenn Parsed Corpora of Historical English\nMonadGPT\nSpaCy\nStanza\nIntroduction to Cultural Analytics and Python",
     "crumbs": [
       "**Ask Questions About:**",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Words</span>"
@@ -321,7 +321,7 @@
     "href": "people.html#tools-and-websites",
     "title": "6  People",
     "section": "6.2 Tools and Websites",
-    "text": "6.2 Tools and Websites\n\nOxford Dictionary of National Biography\nWikidata\nSix Degrees of Francis Bacon\nTudor Networks of Power\nWomen Writers Project\nBook Owners Online\nSlaveVoyages\nVirtual International Authority File\nOpenRefine",
+    "text": "6.2 Tools and Websites\n\nOxford Dictionary of National Biography\nWikidata\nSix Degrees of Francis Bacon\nTudor Networks of Power\nWomen Writers Project\nBook Owners Online\nSlaveVoyages\nVirtual International Authority File\nOpenRefine\nNetwork Navigator\nGephi\nNetwork Analysis in Python",
     "crumbs": [
       "**Ask Questions About:**",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>People</span>"
