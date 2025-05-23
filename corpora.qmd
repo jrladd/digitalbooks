@@ -11,11 +11,25 @@
 - [EarlyPrint Corpus Search](https://eplab.artsci.wustl.edu/corpus-frontend-1.2/eebotcp/search/)
 - [EarlyPrint Bibliographia](https://earlyprint.org/bibliographia/)
 - [EarlyPrint + Python](https://earlyprint.org/jupyterbook/intro.html)
-- [Nomic Atlas](https://atlas.nomic.ai/data/earlyprint/creative-johnson/map)
+- [Nomic Atlas](https://atlas.nomic.ai/)
 - [GPT4All](https://www.nomic.ai/gpt4all)
 - [Ollama](https://ollama.com/)
+- [AI for Humanists](https://aiforhumanists.com/)
 
 ## Activities
+
+### Viewing the Whole Corpus
+
+1. Explore the [Bibliographia](https://earlyprint.org/bibliographia/): first, search for a specific text and find the subject headings it's part of. Then, find all of the texts with that subject heading and see if the "map" has organized them into the same area.
+2. Compare this map to the version we made in Nomic Atlas, using semantic search to find topics you're interested in. How do the subject headings from the Bibliographia compare to the automatically-generated topics and search results?
+
+### Modeling Early Modern Corpora
+
+1. Follow the tutorials in the [EarlyPrint + Python] notebooks, especially the Word Embeddings and Unsupervised Clustering exercises.
+   - You can work through the EarlyPrint notebooks using Google Colab: 
+     - [Word Embeddings](https://colab.research.google.com/drive/131XjAd5zvtKCOzhVXUTVjJGHN5dBv1_R?usp=sharing)
+     - [Text Clustering](https://colab.research.google.com/drive/1rL-3t8zpBx3or4guqRw-Ak6PNMBSLIRc?usp=sharing)
+
 
 ## References
 

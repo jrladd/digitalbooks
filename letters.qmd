@@ -1,5 +1,7 @@
 # Letters
 
+In this section I'm referring to individual characters in printed type, not correspondence! But there's lots of great computational work on early modern correspondence that I may add at a later time.
+
 ## Sample Research Questions
 
 - Can we discover who printed a text based on damaged pieces of type?
@@ -10,8 +12,7 @@
 
 - [Print & Probability](https://printprobability.org/)
 - [Catalog of Distinctive Type](https://cdt.library.cmu.edu/?pq_year_early=1644&pq_year_late=1715)
-
-## Activities
+- [EEBO N-Gram Browser (using original spelling)](https://earlyprint.org/lab/tool_ngram_browser.html?requestFromClient={%221%22:{%22spe%22:%22love,loue%22,%22reg%22:%22%22,%22lem%22:%22%22,%22pos%22:%22%22,%22originalPos%22:%22%22},%222%22:{%22spe%22:%22%22,%22reg%22:%22%22,%22lem%22:%22%22,%22pos%22:%22%22,%22originalPos%22:%22%22},%223%22:{%22spe%22:%22%22,%22reg%22:%22%22,%22lem%22:%22%22,%22pos%22:%22%22,%22originalPos%22:%22%22},%22databaseType%22:%22unigrams%22,%22smoothing%22:%22True%22,%22rollingAverage%22:%2220_year%22,%20%22instructionToggle%22:%20%22show%22})
 
 ## References
 

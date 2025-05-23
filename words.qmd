@@ -38,7 +38,7 @@
 
 ### Text Analysis
 
-1. Follow the tutorials in the [EarlyPrint + Python](https://earlyprint.org/jupyterbook/intro.html), especially the Metadata and Text Analysis exercises:
+1. Follow the tutorials in the [EarlyPrint + Python](https://earlyprint.org/jupyterbook/intro.html) notebooks, especially the Metadata and Text Analysis exercises:
 
    - Specifically, refer to the *Programming Historian* tutorial on [Text Similarity](https://programminghistorian.org/en/lessons/common-similarity-measures)
    - Then, work through the EarlyPrint notebooks using Google Colab:

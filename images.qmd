@@ -16,8 +16,6 @@
 - [British Armorial Bindings](https://armorial.bibsoc.org.uk/)
 - [Compositor](https://compositor.bham.ac.uk/)
 
-## Activities
-
 ## References
 
 - @warren_who_2023
