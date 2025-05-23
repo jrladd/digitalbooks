@@ -167,7 +167,7 @@
     "href": "words.html#activities",
     "title": "3  Words",
     "section": "3.3 Activities",
-    "text": "3.3 Activities\n\n3.3.1 Comparing Word Search Strategies\n\nChoose a word, and search for it using Corpus Search and the N-Gram Browser. How the results different when you look for regularized and non-regularized forms?\nSelect a phrase that includes that word, and devise the CQL query to search for it in Corpus Search. Look for the same term in the N-Gram Browser and Phrase Search. Can you begin to interpret the results of these three interfaces?\nExport/download the results of the Corpus Search and look within those results for related words or other collocates.\n\n\n\n3.3.2 Text Analysis\n\nFollow the tutorials in the EarlyPrint + Python, especially the Metadata and Text Analysis exercises:\n\nSpecifically, refer to the Programming Historian tutorial on Text Similarity\nThen, work through the EarlyPrint notebooks using Google Colab:\n\nExploring Vocabulary Using Tf-Idf\nText Similarity",
+    "text": "3.3 Activities\n\n3.3.1 Comparing Word Search Strategies\n\nChoose a word, and search for it using Corpus Search and the N-Gram Browser. How the results different when you look for regularized and non-regularized forms?\nSelect a phrase that includes that word, and devise the CQL query to search for it in Corpus Search. Look for the same term in the N-Gram Browser and Phrase Search. Can you begin to interpret the results of these three interfaces?\nExport/download the results of the Corpus Search and look within those results for related words or other collocates.\n\n\n\n3.3.2 Text Analysis\n\nFollow the tutorials in the EarlyPrint + Python notebooks, especially the Metadata and Text Analysis exercises:\n\nSpecifically, refer to the Programming Historian tutorial on Text Similarity\nThen, work through the EarlyPrint notebooks using Google Colab:\n\nExploring Vocabulary Using Tf-Idf\nText Similarity",
     "crumbs": [
       "**Ask Questions About:**",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Words</span>"
@@ -189,7 +189,7 @@
     "href": "letters.html",
     "title": "4  Letters",
     "section": "",
-    "text": "4.1 Sample Research Questions",
+    "text": "4.1 Sample Research Questions\nIn this section I’m referring to individual characters in printed type, not correspondence! But there’s lots of great computational work on early modern correspondence that I may add at a later time.",
     "crumbs": [
       "**Ask Questions About:**",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Letters</span>"
@@ -211,18 +211,7 @@
     "href": "letters.html#tools-and-websites",
     "title": "4  Letters",
     "section": "4.2 Tools and Websites",
-    "text": "4.2 Tools and Websites\n\nPrint & Probability\nCatalog of Distinctive Type",
-    "crumbs": [
-      "**Ask Questions About:**",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Letters</span>"
-    ]
-  },
-  {
-    "objectID": "letters.html#activities",
-    "href": "letters.html#activities",
-    "title": "4  Letters",
-    "section": "4.3 Activities",
-    "text": "4.3 Activities",
+    "text": "4.2 Tools and Websites\n\nPrint & Probability\nCatalog of Distinctive Type\nEEBO N-Gram Browser (using original spelling)",
     "crumbs": [
       "**Ask Questions About:**",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Letters</span>"
@@ -232,8 +221,8 @@
     "objectID": "letters.html#references",
     "href": "letters.html#references",
     "title": "4  Letters",
-    "section": "4.4 References",
-    "text": "4.4 References\n\nChristopher N. Warren et al. (2023)\nChristopher N. Warren et al. (2020)\nGoyal et al. (2020)\nVogler et al. (2024)\nBasu and Loewenstein (2019)\n\n\n\n\n\nBasu, Anupam, and Joseph Loewenstein. 2019. “Spenser’s Spell: Archaism and Historical Stylometrics.” Spenser Studies 33 (January): 63–102. https://doi.org/10.1086/700300.\n\n\nGoyal, Kartik, Chris Dyer, Christopher Warren, Max G’Sell, and Taylor Berg-Kirkpatrick. 2020. “A Probabilistic Generative Model for Typographical Analysis of Early Modern Printing.” arXiv. https://doi.org/10.48550/arXiv.2005.01646.\n\n\nVogler, Nikolai, Kartik Goyal, Samuel V. Lemley, D. J. Schuldt, Christopher N. Warren, Max G’Sell, and Taylor Berg-Kirkpatrick. 2024. “Clustering Running Titles to Understand the Printing of Early Modern Books.” In Document Analysis and Recognition - ICDAR 2024, edited by Elisa H. Barney Smith, Marcus Liwicki, and Liangrui Peng, 374–90. Cham: Springer Nature Switzerland. https://doi.org/10.1007/978-3-031-70543-4_22.\n\n\nWarren, Christopher N, Samuel V Lemley, D J Schuldt, Elizabeth Dieterich, Laura S DeLuca, Max G’Sell, Taylor Berg-Kirkpatrick, Kari Thomas, Kartik Goyal, and Nikolai Vogler. 2023. “Who Rpinted Shakespeare’s Fourth Folio?” Shakespeare Quarterly 74 (2): 139–46. https://doi.org/10.1093/sq/quad021.\n\n\nWarren, Christopher N., Pierce Wiliams, Shruti Rijhwani, and Max G’Sell. 2020. “Damaged Type and Areopagitica’s Clandestine Printers.” Milton Studies 62 (1): 1–47. https://muse.jhu.edu/pub/2/article/748968.",
+    "section": "4.3 References",
+    "text": "4.3 References\n\nChristopher N. Warren et al. (2023)\nChristopher N. Warren et al. (2020)\nGoyal et al. (2020)\nVogler et al. (2024)\nBasu and Loewenstein (2019)\n\n\n\n\n\nBasu, Anupam, and Joseph Loewenstein. 2019. “Spenser’s Spell: Archaism and Historical Stylometrics.” Spenser Studies 33 (January): 63–102. https://doi.org/10.1086/700300.\n\n\nGoyal, Kartik, Chris Dyer, Christopher Warren, Max G’Sell, and Taylor Berg-Kirkpatrick. 2020. “A Probabilistic Generative Model for Typographical Analysis of Early Modern Printing.” arXiv. https://doi.org/10.48550/arXiv.2005.01646.\n\n\nVogler, Nikolai, Kartik Goyal, Samuel V. Lemley, D. J. Schuldt, Christopher N. Warren, Max G’Sell, and Taylor Berg-Kirkpatrick. 2024. “Clustering Running Titles to Understand the Printing of Early Modern Books.” In Document Analysis and Recognition - ICDAR 2024, edited by Elisa H. Barney Smith, Marcus Liwicki, and Liangrui Peng, 374–90. Cham: Springer Nature Switzerland. https://doi.org/10.1007/978-3-031-70543-4_22.\n\n\nWarren, Christopher N, Samuel V Lemley, D J Schuldt, Elizabeth Dieterich, Laura S DeLuca, Max G’Sell, Taylor Berg-Kirkpatrick, Kari Thomas, Kartik Goyal, and Nikolai Vogler. 2023. “Who Rpinted Shakespeare’s Fourth Folio?” Shakespeare Quarterly 74 (2): 139–46. https://doi.org/10.1093/sq/quad021.\n\n\nWarren, Christopher N., Pierce Wiliams, Shruti Rijhwani, and Max G’Sell. 2020. “Damaged Type and Areopagitica’s Clandestine Printers.” Milton Studies 62 (1): 1–47. https://muse.jhu.edu/pub/2/article/748968.",
     "crumbs": [
       "**Ask Questions About:**",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Letters</span>"
@@ -273,22 +262,11 @@
     ]
   },
   {
-    "objectID": "images.html#activities",
-    "href": "images.html#activities",
-    "title": "5  Images",
-    "section": "5.3 Activities",
-    "text": "5.3 Activities",
-    "crumbs": [
-      "**Ask Questions About:**",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Images</span>"
-    ]
-  },
-  {
     "objectID": "images.html#references",
     "href": "images.html#references",
     "title": "5  Images",
-    "section": "5.4 References",
-    "text": "5.4 References\n\nChristopher N. Warren et al. (2023)\nChristopher N. Warren et al. (2020)\nGoyal et al. (2020)\nVogler et al. (2024)\nDrucker (2011)\n\n\n\n\n\nDrucker, Johanna. 2011. “Humanities Approaches to Graphical Display.” Digital Humanities Quarterly 005 (1).\n\n\nGoyal, Kartik, Chris Dyer, Christopher Warren, Max G’Sell, and Taylor Berg-Kirkpatrick. 2020. “A Probabilistic Generative Model for Typographical Analysis of Early Modern Printing.” arXiv. https://doi.org/10.48550/arXiv.2005.01646.\n\n\nVogler, Nikolai, Kartik Goyal, Samuel V. Lemley, D. J. Schuldt, Christopher N. Warren, Max G’Sell, and Taylor Berg-Kirkpatrick. 2024. “Clustering Running Titles to Understand the Printing of Early Modern Books.” In Document Analysis and Recognition - ICDAR 2024, edited by Elisa H. Barney Smith, Marcus Liwicki, and Liangrui Peng, 374–90. Cham: Springer Nature Switzerland. https://doi.org/10.1007/978-3-031-70543-4_22.\n\n\nWarren, Christopher N, Samuel V Lemley, D J Schuldt, Elizabeth Dieterich, Laura S DeLuca, Max G’Sell, Taylor Berg-Kirkpatrick, Kari Thomas, Kartik Goyal, and Nikolai Vogler. 2023. “Who Rpinted Shakespeare’s Fourth Folio?” Shakespeare Quarterly 74 (2): 139–46. https://doi.org/10.1093/sq/quad021.\n\n\nWarren, Christopher N., Pierce Wiliams, Shruti Rijhwani, and Max G’Sell. 2020. “Damaged Type and Areopagitica’s Clandestine Printers.” Milton Studies 62 (1): 1–47. https://muse.jhu.edu/pub/2/article/748968.",
+    "section": "5.3 References",
+    "text": "5.3 References\n\nChristopher N. Warren et al. (2023)\nChristopher N. Warren et al. (2020)\nGoyal et al. (2020)\nVogler et al. (2024)\nDrucker (2011)\n\n\n\n\n\nDrucker, Johanna. 2011. “Humanities Approaches to Graphical Display.” Digital Humanities Quarterly 005 (1).\n\n\nGoyal, Kartik, Chris Dyer, Christopher Warren, Max G’Sell, and Taylor Berg-Kirkpatrick. 2020. “A Probabilistic Generative Model for Typographical Analysis of Early Modern Printing.” arXiv. https://doi.org/10.48550/arXiv.2005.01646.\n\n\nVogler, Nikolai, Kartik Goyal, Samuel V. Lemley, D. J. Schuldt, Christopher N. Warren, Max G’Sell, and Taylor Berg-Kirkpatrick. 2024. “Clustering Running Titles to Understand the Printing of Early Modern Books.” In Document Analysis and Recognition - ICDAR 2024, edited by Elisa H. Barney Smith, Marcus Liwicki, and Liangrui Peng, 374–90. Cham: Springer Nature Switzerland. https://doi.org/10.1007/978-3-031-70543-4_22.\n\n\nWarren, Christopher N, Samuel V Lemley, D J Schuldt, Elizabeth Dieterich, Laura S DeLuca, Max G’Sell, Taylor Berg-Kirkpatrick, Kari Thomas, Kartik Goyal, and Nikolai Vogler. 2023. “Who Rpinted Shakespeare’s Fourth Folio?” Shakespeare Quarterly 74 (2): 139–46. https://doi.org/10.1093/sq/quad021.\n\n\nWarren, Christopher N., Pierce Wiliams, Shruti Rijhwani, and Max G’Sell. 2020. “Damaged Type and Areopagitica’s Clandestine Printers.” Milton Studies 62 (1): 1–47. https://muse.jhu.edu/pub/2/article/748968.",
     "crumbs": [
       "**Ask Questions About:**",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Images</span>"
@@ -442,7 +420,7 @@
     "href": "ideas.html#activities",
     "title": "8  Ideas",
     "section": "8.3 Activities",
-    "text": "8.3 Activities",
+    "text": "8.3 Activities\n\nSee the Corpora section!",
     "crumbs": [
       "**Ask Questions About:**",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Ideas</span>"
@@ -486,7 +464,7 @@
     "href": "corpora.html#tools-and-websites",
     "title": "9  Corpora",
     "section": "9.2 Tools and Websites",
-    "text": "9.2 Tools and Websites\n\nEarlyPrint Corpus Search\nEarlyPrint Bibliographia\nEarlyPrint + Python\nNomic Atlas\nGPT4All\nOllama",
+    "text": "9.2 Tools and Websites\n\nEarlyPrint Corpus Search\nEarlyPrint Bibliographia\nEarlyPrint + Python\nNomic Atlas\nGPT4All\nOllama\nAI for Humanists",
     "crumbs": [
       "**Ask Questions About:**",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Corpora</span>"
@@ -497,7 +475,7 @@
     "href": "corpora.html#activities",
     "title": "9  Corpora",
     "section": "9.3 Activities",
-    "text": "9.3 Activities",
+    "text": "9.3 Activities\n\n9.3.1 Viewing the Whole Corpus\n\nExplore the Bibliographia: first, search for a specific text and find the subject headings it’s part of. Then, find all of the texts with that subject heading and see if the “map” has organized them into the same area.\nCompare this map to the version we made in Nomic Atlas, using semantic search to find topics you’re interested in. How do the subject headings from the Bibliographia compare to the automatically-generated topics and search results?\n\n\n\n9.3.2 Modeling Early Modern Corpora\n\nFollow the tutorials in the [EarlyPrint + Python] notebooks, especially the Word Embeddings and Unsupervised Clustering exercises.\n\nYou can work through the EarlyPrint notebooks using Google Colab:\n\nWord Embeddings\nText Clustering",
     "crumbs": [
       "**Ask Questions About:**",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Corpora</span>"
