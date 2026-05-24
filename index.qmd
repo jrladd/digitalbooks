@@ -1,8 +1,8 @@
 # Introduction {.unnumbered}
 
-This mini-site is a guide for my 4-day [Dream Lab 2025 course](https://web.sas.upenn.edu/dream-lab/digital-approaches-to-early-modern-books-2025/), *Digital Approaches to Early Modern Books*. But I hope it will be useful for anyone who's looking to apply digital and computational methods to 16th- and 17th-century print culture. Like the course, the site focuses more on existing tools and websites, but there's also a little bit of code and visualization.
+This mini-site is a guide for my 4-day [Dream Lab course](https://web.sas.upenn.edu/dream-lab/digital-approaches-to-early-modern-books-2026-2/), *Digital Approaches to Early Modern Books*. But I hope it will be useful for anyone who's looking to apply digital and computational methods to 16th- and 17th-century print culture. Like the course, the site focuses more on existing tools and websites, but there's also a little bit of code and visualization.
 
-Rather than organize things by method or approach, I've sorted tools and methods by the parts of print culture a scholar is likely to have questions about: words, books, letters, people, ideas, etc. Naturally these categories are deeply intertwined and overlapping, and they're not intended to be comprehensive. The goal is to help folks who are just starting out with digital approaches discover how to ask and answer questions about the research subjects they care about.
+Rather than organize things by method or approach, I've sorted tools and methods by the parts of print culture a scholar is likely to have questions about: words, books, type, people, ideas, etc. Naturally these categories are deeply intertwined and overlapping, and they're not intended to be comprehensive. The goal is to help folks who are just starting out with digital approaches discover how to ask and answer questions about the research subjects they care about.
 
 We've all had the experience of visiting an amazing new website, taking a tutorial on a new technique, or seeing an incredible presentation and thinking, "Wow, that's cool! But how do I use it to help with what I'm working on?" We recognize the new method as useful even as we don't know what *we'd* use it for. This site is meant to help fill in that gap.
 
@@ -14,38 +14,38 @@ We've all had the experience of visiting an amazing new website, taking a tutori
 
 - 9am Check in & Coffee
 - 10am Welcome
-- **10:45am – Morning Session: Introductions**
+- **10:45am – Morning Session: Introductions & Mini-project Planning**
 - Noon – Break
-- **1:30pm – Afternoon Session 1: Image to Text, XML & TEI**
+- **1:30pm – Afternoon Session 1: Visit to [SCETI](https://www.library.upenn.edu/schoenberg-center-electronic)**
 - 3pm – Coffee Break
-- **3:30pm-5pm – Afternoon Session 2: Research Activities**
+- **3:30pm-5pm – Afternoon Session 2: Books from UPenn Special Collections, TEI Practice**
 - 5:00pm – Opening Event
 - 6:30-7:30pm – Reception
 
-### Wednesday 21 May: Texts, Words, Letters
+### Wednesday 21 May: Texts, Words, Type
 
 - 9am – Coffee
-- **10am – Morning Session: Text Analysis & Similarity**
+- **10am – Morning Session: Search & Metadata**
 - Noon – Break
-- **1:30pm – Afternoon Session 1: Spelling & Search**
+- **1:30pm – Afternoon Session 1: Text Analysis & Similarity**
 - 3pm – Coffee Break
-- **3:30pm-5pm – Afternoon Session 2: Research Activities**
-- 5:15-7pm Ice Cream Social
+- **3:30pm-5pm – Afternoon Session 2: Mini-project Work/Research Activities**
+- 5:15-7pm Ice Cream Social & Game Night
 
 ### Thursday 22 May: People & Places
 
 - 9am Coffee
-- **10am – Morning Session: Unstructured Data, Mapping**
+- **10am – Morning Session: Networks, Biography, Prosopography**
 - Noon – Break
-- **1:30pm – Afternoon Session 1: Networks, Biography, Prosopography**
+- **1:30pm – Afternoon Session 1: Places & Mapping**
 - 3pm Coffee Break
-- **3:30pm-5pm – Afternoon Session 2: Research Activities**
+- **3:30pm-5pm – Afternoon Session 2: Mini-project Work/Research Activities**
 
 ### Friday 23 May: Ideas & Corpora
 
 - 9am – Coffee
-- **10am – Morning Session: Machine Learning, Corpus Linguistics**
+- **10am – Morning Session: Machine Learning & Images**
 - Noon – Break
-- **1:30pm – Afternoon Session: LLMs and What's Next**
+- **1:30pm – Afternoon Session: Mini-project Work/Prep for Show and Tell**
 - 3pm – Coffee Break
-- 3:30pm – 5pm Show and Tell/Closing
+- **3:30pm – 5pm Mini-project Show and Tell/Closing**

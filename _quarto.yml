@@ -8,7 +8,7 @@ book:
   favicon: favicon.png
   sidebar:
     logo: kunstrichtigesch00fran_B.jpeg
-  date: "5/7/2025"
+  date: "5/24/2026"
   chapters:
     - index.qmd
     - part: "**Ask Questions About:**"
@@ -16,15 +16,14 @@ book:
         - books.qmd
         - texts.qmd
         - words.qmd
-        - letters.qmd
-        - images.qmd
+        - type.qmd
         - people.qmd
         - places.qmd
         - ideas.qmd
         - corpora.qmd
     - references.qmd
   search: true
-  page-footer: "John R. Ladd, DreamLab2025"
+  page-footer: "John R. Ladd, Dream Lab 2025, 2026"
 
 bibliography: references.bib
 

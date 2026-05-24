@@ -1,6 +1,6 @@
-# Letters
+# Type
 
-In this section I'm referring to individual characters in printed type, not correspondence! But there's lots of great computational work on early modern correspondence that I may add at a later time.
+In this section I'm referring to individual characters in printed type, but there is also computational work on fonts, character classes, and other units of type.
 
 ## Sample Research Questions
 
