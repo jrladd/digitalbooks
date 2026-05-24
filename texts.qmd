@@ -11,6 +11,7 @@
 - [EEBO-TCP](https://textcreationpartnership.org/tcp-texts/eebo-tcp-early-english-books-online/)
 - [EarlyPrint Library & Lab](https://earlyprint.org/)
 - [EarlyPrint Discovery Engine](https://earlyprint.org/lab/tool_discovery_engine.html?which_to_do=find_texts&eebo_tcp_id=A43441&n_results=35&tfidf_weight=6&mallet_weight=6&tag_weight=6)
+- [EarlyPrint Text Downloader](https://jrladd.com/epdownload/)
 - [Oxford Text Archive](https://ota.bodleian.ox.ac.uk/repository/xmlui/)
 - [Digital Miscellanies Index](http://digitalmiscellaniesindex.org/)
 - [Manuscript Pamphleteering in Early Stuart England](https://mpese.ac.uk/)
