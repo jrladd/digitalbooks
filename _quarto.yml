@@ -21,6 +21,7 @@ book:
         - places.qmd
         - ideas.qmd
         - corpora.qmd
+    - mini-project.md
     - references.qmd
   search: true
   page-footer: "John R. Ladd, Dream Lab 2025, 2026"
