@@ -25,9 +25,9 @@ We've all had the experience of visiting an amazing new website, taking a tutori
 ### Wednesday 21 May: Texts, Words, Type
 
 - 9am – Coffee
-- **10am – Morning Session: Search & Metadata**
+- **10am – Morning Session: Metadata & Text Analysis**
 - Noon – Break
-- **1:30pm – Afternoon Session 1: Text Analysis & Similarity**
+- **1:30pm – Afternoon Session 1: Search & Similarity**
 - 3pm – Coffee Break
 - **3:30pm-5pm – Afternoon Session 2: Mini-project Work/Research Activities**
 - 5:15-7pm Ice Cream Social & Game Night

@@ -14,6 +14,7 @@
 - [Tudor Networks of Power](https://tudornetworks.net/)
 - [Women Writers Project](https://www.wwp.northeastern.edu/)
 - [Book Owners Online](https://bookowners.online/Main_Page)
+- [British Book Trade Index](https://hcmc.uvic.ca/project/bbti/index.html)
 - [SlaveVoyages](https://www.slavevoyages.org/)
 - [Virtual International Authority File](https://viaf.org/en)
 - [OpenRefine](https://viaf.org/en)
