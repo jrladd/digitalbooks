@@ -14,7 +14,7 @@
     "href": "index.html#schedule",
     "title": "Digital Approaches to Early Modern Books",
     "section": "Schedule",
-    "text": "Schedule\n\nTuesday 20 May: Books, Texts, Images\n\n9am Check in & Coffee\n10am Welcome\n10:45am – Morning Session: Introductions & Mini-project Planning\nNoon – Break\n1:30pm – Afternoon Session 1: Visit to SCETI\n3pm – Coffee Break\n3:30pm-5pm – Afternoon Session 2: Books from UPenn Special Collections, TEI Practice\n5:00pm – Opening Event\n6:30-7:30pm – Reception\n\n\n\nWednesday 21 May: Texts, Words, Type\n\n9am – Coffee\n10am – Morning Session: Search & Metadata\nNoon – Break\n1:30pm – Afternoon Session 1: Text Analysis & Similarity\n3pm – Coffee Break\n3:30pm-5pm – Afternoon Session 2: Mini-project Work/Research Activities\n5:15-7pm Ice Cream Social & Game Night\n\n\n\nThursday 22 May: People & Places\n\n9am Coffee\n10am – Morning Session: Networks, Biography, Prosopography\nNoon – Break\n1:30pm – Afternoon Session 1: Places & Mapping\n3pm Coffee Break\n3:30pm-5pm – Afternoon Session 2: Mini-project Work/Research Activities\n\n\n\nFriday 23 May: Ideas & Corpora\n\n9am – Coffee\n10am – Morning Session: Machine Learning & Images\nNoon – Break\n1:30pm – Afternoon Session: Mini-project Work/Prep for Show and Tell\n3pm – Coffee Break\n3:30pm – 5pm Mini-project Show and Tell/Closing",
+    "text": "Schedule\n\nTuesday 20 May: Books, Texts, Images\n\n9am Check in & Coffee\n10am Welcome\n10:45am – Morning Session: Introductions & Mini-project Planning\nNoon – Break\n1:30pm – Afternoon Session 1: Visit to SCETI\n3pm – Coffee Break\n3:30pm-5pm – Afternoon Session 2: Books from UPenn Special Collections, TEI Practice\n5:00pm – Opening Event\n6:30-7:30pm – Reception\n\n\n\nWednesday 21 May: Texts, Words, Type\n\n9am – Coffee\n10am – Morning Session: Metadata & Text Analysis\nNoon – Break\n1:30pm – Afternoon Session 1: Search & Similarity\n3pm – Coffee Break\n3:30pm-5pm – Afternoon Session 2: Mini-project Work/Research Activities\n5:15-7pm Ice Cream Social & Game Night\n\n\n\nThursday 22 May: People & Places\n\n9am Coffee\n10am – Morning Session: Networks, Biography, Prosopography\nNoon – Break\n1:30pm – Afternoon Session 1: Places & Mapping\n3pm Coffee Break\n3:30pm-5pm – Afternoon Session 2: Mini-project Work/Research Activities\n\n\n\nFriday 23 May: Ideas & Corpora\n\n9am – Coffee\n10am – Morning Session: Machine Learning & Images\nNoon – Break\n1:30pm – Afternoon Session: Mini-project Work/Prep for Show and Tell\n3pm – Coffee Break\n3:30pm – 5pm Mini-project Show and Tell/Closing",
     "crumbs": [
       "Introduction"
     ]
@@ -156,7 +156,7 @@
     "href": "words.html#tools-and-websites",
     "title": "3  Words",
     "section": "3.2 Tools and Websites",
-    "text": "3.2 Tools and Websites\n\nEarlyPrint & EEBO:\n\nEarlyPrint N-gram Browser\nEarlyPrint Corpus Search\nEarlyPrint Phrase Search\nEEBO-TCP\nWhat We Talk About When We Talk About EEBO\nText Encoding Initiative\n\nNLP & Text Analysis\n\nVoyant\nEarlyPrint + Python\nMorphAdorner\nPenn Parsed Corpora of Historical English\nMonadGPT\nSpaCy\nStanza\nIntroduction to Cultural Analytics and Python",
+    "text": "3.2 Tools and Websites\n\nEarlyPrint & EEBO:\n\nEarlyPrint N-gram Browser\nEarlyPrint Corpus Search\nEEBO-TCP\nWhat We Talk About When We Talk About EEBO\nText Encoding Initiative\n\nNLP & Text Analysis\n\nVoyant\nEarlyPrint + Python\nMorphAdorner\nPenn Parsed Corpora of Historical English\nMonadGPT\nSpaCy\nStanza\nIntroduction to Cultural Analytics and Python",
     "crumbs": [
       "**Ask Questions About:**",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Words</span>"
@@ -255,7 +255,7 @@
     "href": "people.html#tools-and-websites",
     "title": "5  People",
     "section": "5.2 Tools and Websites",
-    "text": "5.2 Tools and Websites\n\nOxford Dictionary of National Biography\nWikidata\nSix Degrees of Francis Bacon\nTudor Networks of Power\nWomen Writers Project\nBook Owners Online\nSlaveVoyages\nVirtual International Authority File\nOpenRefine\nNetwork Navigator\nGephi\nGephi-Lite\nNetwork Analysis in Python",
+    "text": "5.2 Tools and Websites\n\nOxford Dictionary of National Biography\nWikidata\nSix Degrees of Francis Bacon\nTudor Networks of Power\nWomen Writers Project\nBook Owners Online\nBritish Book Trade Index\nSlaveVoyages\nVirtual International Authority File\nOpenRefine\nNetwork Navigator\nGephi\nGephi-Lite\nNetwork Analysis in Python",
     "crumbs": [
       "**Ask Questions About:**",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>People</span>"
