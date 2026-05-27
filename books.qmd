@@ -19,6 +19,15 @@ For the purposes of this site, I'm defining a book as a unit of printed output. 
 - [English Short Title Catalogue (ESTC)](https://datb.cerl.org/estc/)
 - [Text Encoding Initiative](https://tei-c.org/)
 - [English Broadside Ballad Archive](https://ebba.english.ucsb.edu/)
+- [e-editiones](https://www.e-editiones.org/)
+
+### OCR Tools
+
+- [Abbyy Finereader](https://pdf.abbyy.com/)
+- [Tesseract](https://tesseractocr.org/)
+- [Ocular](https://github.com/tberg12/ocular)
+- [eScriptorium](http://www.escriptorium.org/)
+- [Transkribus](https://www.transkribus.org/)
 
 ## Activities
 

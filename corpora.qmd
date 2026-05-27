@@ -12,6 +12,7 @@
 - [EarlyPrint Bibliographia](https://earlyprint.org/bibliographia/)
 - [EarlyPrint + Python](https://earlyprint.org/jupyterbook/intro.html)
 - [Nomic Atlas](https://atlas.nomic.ai/)
+- [Lexos](http://lexos.wheatoncollege.edu/upload)
 - [GPT4All](https://www.nomic.ai/gpt4all)
 - [Ollama](https://ollama.com/)
 - [AI for Humanists](https://aiforhumanists.com/)

@@ -12,6 +12,7 @@
 - [EarlyPrint Bibliographia](https://earlyprint.org/bibliographia/)
 - [MALLET](https://mimno.github.io/Mallet/index)
 - [Nomic Atlas](https://atlas.nomic.ai/)
+- [Lexos](http://lexos.wheatoncollege.edu/upload)
 
 ## Activities
 
