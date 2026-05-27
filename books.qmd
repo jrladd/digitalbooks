@@ -10,7 +10,7 @@ For the purposes of this site, I'm defining a book as a unit of printed output. 
 
 ## Tools and Websites
 
-- [EEBO](https://about.proquest.com/en/products-services/eebo/)
+- [EEBO](https://www.proquest.com/eebo)
 - [Text Creation Partnership](https://textcreationpartnership.org/)
 - [EarlyPrint Library](https://texts.earlyprint.org/exist/apps/shc/home.html)
 - Internet Archive Early English Books:
