@@ -30,7 +30,7 @@
 
 ### Comparing Word Search Strategies
 
-1. Choose a word, and search for it using Corpus Search and the N-Gram Browser. How the results different when you look for regularized and non-regularized forms?
+1. Choose a word, and search for it using Corpus Search and the N-Gram Browser. How are the results different when you look for regularized and non-regularized forms?
 
 2. Select a phrase that includes that word, and devise the [CQL query](https://earlyprint.org/how-to/intro_to_linguistic_search.html) to search for it in Corpus Search. Look for the same term in the N-Gram Browser and Phrase Search. Can you begin to interpret the results of these three interfaces?
 
