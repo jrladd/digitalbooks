@@ -46,7 +46,7 @@
     "href": "books.html#tools-and-websites",
     "title": "1  Books",
     "section": "1.2 Tools and Websites",
-    "text": "1.2 Tools and Websites\n\nEEBO\nText Creation Partnership\nEarlyPrint Library\nInternet Archive Early English Books:\n\n1475–1640\n1641–1700\n\nEnglish Short Title Catalogue (ESTC)\nText Encoding Initiative\nEnglish Broadside Ballad Archive",
+    "text": "1.2 Tools and Websites\n\nEEBO\nText Creation Partnership\nEarlyPrint Library\nInternet Archive Early English Books:\n\n1475–1640\n1641–1700\n\nEnglish Short Title Catalogue (ESTC)\nText Encoding Initiative\nEnglish Broadside Ballad Archive\ne-editiones\n\n\n1.2.1 OCR Tools\n\nAbbyy Finereader\nTesseract\nOcular\neScriptorium\nTranskribus",
     "crumbs": [
       "**Ask Questions About:**",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Books</span>"
@@ -365,7 +365,7 @@
     "href": "ideas.html#tools-and-websites",
     "title": "7  Ideas",
     "section": "7.2 Tools and Websites",
-    "text": "7.2 Tools and Websites\n\nEarlyPrint Corpus Search Beta\nEarlyPrint Bibliographia\nMALLET\nNomic Atlas",
+    "text": "7.2 Tools and Websites\n\nEarlyPrint Corpus Search Beta\nEarlyPrint Bibliographia\nMALLET\nNomic Atlas\nLexos",
     "crumbs": [
       "**Ask Questions About:**",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Ideas</span>"
@@ -420,7 +420,7 @@
     "href": "corpora.html#tools-and-websites",
     "title": "8  Corpora",
     "section": "8.2 Tools and Websites",
-    "text": "8.2 Tools and Websites\n\nEarlyPrint Corpus Search\nEarlyPrint Bibliographia\nEarlyPrint + Python\nNomic Atlas\nGPT4All\nOllama\nAI for Humanists",
+    "text": "8.2 Tools and Websites\n\nEarlyPrint Corpus Search\nEarlyPrint Bibliographia\nEarlyPrint + Python\nNomic Atlas\nLexos\nGPT4All\nOllama\nAI for Humanists",
     "crumbs": [
       "**Ask Questions About:**",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Corpora</span>"
