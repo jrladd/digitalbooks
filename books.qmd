@@ -16,7 +16,7 @@ For the purposes of this site, I'm defining a book as a unit of printed output. 
 - Internet Archive Early English Books:
   - [1475–1640](https://archive.org/details/pub_early-english-books-1475-1640?tab=collection&sort=-reviewdate)
   - [1641–1700](https://archive.org/details/pub_early-english-books-1641-1700?tab=collection)
-- [English Short Title Catalogue (ESTC)]((https://datb.cerl.org/estc/)
+- [English Short Title Catalogue (ESTC)](https://datb.cerl.org/estc/)
 - [Text Encoding Initiative](https://tei-c.org/)
 - [English Broadside Ballad Archive](https://ebba.english.ucsb.edu/)
 
