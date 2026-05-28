@@ -37,11 +37,15 @@
 
 1. Choose a person, and export network data from *Six Degrees of Francis Bacon*.
 
-2. Convert the data to CSV with [SDFB-to-CSV](https://sdfb-to-csv.glitch.me/).
+2. Convert the data to CSV with [SDFB-to-CSV](https://jrladd.com/sdfb-to-csv/).
 
 3. Open the network data in a spreadsheet application (i.e. Excel). How is it organized?
 
-4. Visualize the data in [Network Navigator](https://networknavigator.jrladd.com/) and [Gephi](https://jrladd.com/networks/visualization/visualization.html).
+4. Visualize the data in [Network Navigator](https://networknavigator.jrladd.com/).
+
+5. Convert the data again to GEXF with [CSV-to-GEXF](https://jrladd.com/gexf) and visualize it with [Gephi-Lite](https://lite.gephi.org/v1.0.2/).
+
+6. Revise your visualization using some [solid visualization principles](https://jrladd.com/networks/visualization/visualization.html).
 
 ## References
 
