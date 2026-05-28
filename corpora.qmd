@@ -8,7 +8,7 @@
 
 ## Tools and Websites
 
-- [EarlyPrint Corpus Search](https://eplab.artsci.wustl.edu/corpus-frontend-1.2/eebotcp/search/)
+- [EarlyPrint Corpus Search](hhttps://eplab.artsci.wustl.edu/blacklab-frontend/earlyprint/search/)
 - [EarlyPrint Bibliographia](https://earlyprint.org/bibliographia/)
 - [EarlyPrint + Python](https://earlyprint.org/jupyterbook/intro.html)
 - [Nomic Atlas](https://atlas.nomic.ai/)
