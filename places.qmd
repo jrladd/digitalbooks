@@ -14,6 +14,7 @@
 - [Atlas of Early Printing](https://atlas.lib.uiowa.edu/)
 - [Virtual International Authority File](https://viaf.org/en)
 - [OpenRefine](https://openrefine.org/)
+- [Flourish](https://flourish.studio/)
 - [QGIS](https://qgis.org/)
 - [ArcGIS](https://www.arcgis.com/index.html)
 

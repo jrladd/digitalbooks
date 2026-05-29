@@ -1,4 +1,4 @@
-# Type
+# Images & Type
 
 In this section I'm referring to individual characters in printed type, but there is also computational work on fonts, character classes, and other units of type.
 
@@ -13,6 +13,13 @@ In this section I'm referring to individual characters in printed type, but ther
 - [Print & Probability](https://printprobability.org/)
 - [Catalog of Distinctive Type](https://cdt.library.cmu.edu/?pq_year_early=1644&pq_year_late=1715)
 - [EEBO N-Gram Browser (using original spelling)](https://earlyprint.org/lab/tool_ngram_browser.html?requestFromClient={%221%22:{%22spe%22:%22love,loue%22,%22reg%22:%22%22,%22lem%22:%22%22,%22pos%22:%22%22,%22originalPos%22:%22%22},%222%22:{%22spe%22:%22%22,%22reg%22:%22%22,%22lem%22:%22%22,%22pos%22:%22%22,%22originalPos%22:%22%22},%223%22:{%22spe%22:%22%22,%22reg%22:%22%22,%22lem%22:%22%22,%22pos%22:%22%22,%22originalPos%22:%22%22},%22databaseType%22:%22unigrams%22,%22smoothing%22:%22True%22,%22rollingAverage%22:%2220_year%22,%20%22instructionToggle%22:%20%22show%22})
+- Internet Archive Early English Books:
+  - [1475–1640](https://archive.org/details/pub_early-english-books-1475-1640?tab=collection&sort=-reviewdate)
+  - [1641–1700](https://archive.org/details/pub_early-english-books-1641-1700?tab=collection)
+- [English Broadside Ballad Archive](https://ebba.english.ucsb.edu/)
+- [British Armorial Bindings](https://armorial.bibsoc.org.uk/)
+- [Compositor](https://compositor.bham.ac.uk/)
+- [IIIF](https://iiif.io/)
 
 ## References
 
@@ -21,3 +28,4 @@ In this section I'm referring to individual characters in printed type, but ther
 - @goyal_probabilistic_2020
 - @vogler_clustering_2024
 - @basu_spensers_2019
+- @drucker_humanities_2011

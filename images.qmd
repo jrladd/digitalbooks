@@ -15,6 +15,7 @@
 - [English Broadside Ballad Archive](https://ebba.english.ucsb.edu/)
 - [British Armorial Bindings](https://armorial.bibsoc.org.uk/)
 - [Compositor](https://compositor.bham.ac.uk/)
+- [IIIF](https://iiif.io/)
 
 ## References
 

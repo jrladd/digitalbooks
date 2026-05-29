@@ -26,7 +26,7 @@
 
 ### Modeling Early Modern Corpora
 
-1. Follow the tutorials in the [EarlyPrint + Python] notebooks, especially the Word Embeddings and Unsupervised Clustering exercises.
+1. Follow the tutorials in the [EarlyPrint + Python](https://earlyprint.org/jupyterbook/intro.html) notebooks, especially the Word Embeddings and Unsupervised Clustering exercises.
    - You can work through the EarlyPrint notebooks using Google Colab: 
      - [Word Embeddings](https://colab.research.google.com/drive/131XjAd5zvtKCOzhVXUTVjJGHN5dBv1_R?usp=sharing)
      - [Text Clustering](https://colab.research.google.com/drive/1rL-3t8zpBx3or4guqRw-Ak6PNMBSLIRc?usp=sharing)
