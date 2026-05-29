@@ -19,6 +19,7 @@ For the purposes of this site, I'm defining a book as a unit of printed output. 
 - [English Short Title Catalogue (ESTC)](https://datb.cerl.org/estc/)
 - [Text Encoding Initiative](https://tei-c.org/)
 - [English Broadside Ballad Archive](https://ebba.english.ucsb.edu/)
+- [DEEP: Database of Early English Playbooks](https://deepplaybooks.org/)
 
 ### OCR Tools
 
